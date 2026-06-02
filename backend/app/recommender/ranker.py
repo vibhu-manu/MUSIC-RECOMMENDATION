@@ -21,15 +21,19 @@ def rank_candidates(
     feedback_counts: Dict[str, Dict[str, int]],
     probabilities: Dict[str, float],
     language: str = "english",
-) -> List[Tuple[Song, float, List[str]]]:
+    recent_song_ids: List[str] = None,
+) -> List[Tuple[Song, float, float, List[str]]]:
     selected: List[Song] = []
-    ranked: List[Tuple[Song, float, List[str]]] = []
+    ranked: List[Tuple[Song, float, float, List[str]]] = []
     remaining = [c for c in candidates if c[0].language.lower() == language.lower()]
+    # Shuffle remaining list to break ties and ensure high variability
+    random.shuffle(remaining)
     mood = dominant_emotion(probabilities)
 
     while remaining and len(ranked) < limit:
         best = None
         best_score = -10.0
+        best_affinity = 0.0
         best_reasons: List[str] = []
         for song, similarity in remaining:
             popularity = song.popularity / 100.0
@@ -40,7 +44,18 @@ def rank_candidates(
             diversity_penalty = _diversity_penalty(song, selected)
             affinity = mood_affinity(probabilities, song.features)
             rule_bonus = sum(prob * emotion_song_rule_bonus(emo, song.features) for emo, prob in probabilities.items())
-            random_factor = random.uniform(-0.1, 0.1)
+            
+            # Rotation penalty: penalize songs recommended in the last few requests
+            recent_penalty = 0.0
+            if recent_song_ids and song.song_id in recent_song_ids:
+                try:
+                    pos = recent_song_ids.index(song.song_id)
+                    # Decay penalty: heaviest for most recent recommendations
+                    recent_penalty = 0.85 - (pos // 10) * 0.25
+                except ValueError:
+                    recent_penalty = 0.0
+            
+            random_factor = random.uniform(-0.15, 0.15)
             score = (
                 0.40 * affinity
                 + 0.24 * rule_bonus
@@ -50,6 +65,7 @@ def rank_candidates(
                 + 0.08 * personalization
                 + feedback_bonus
                 - diversity_penalty
+                - recent_penalty
                 + random_factor
             )
             reasons = [
@@ -60,10 +76,11 @@ def rank_candidates(
             if score > best_score:
                 best = (song, similarity)
                 best_score = score
+                best_affinity = affinity
                 best_reasons = reasons
         if best is None:
             break
         selected.append(best[0])
-        ranked.append((best[0], round(best_score, 4), best_reasons))
+        ranked.append((best[0], round(best_score, 4), round(best_affinity, 4), best_reasons))
         remaining = [candidate for candidate in remaining if candidate[0].song_id != best[0].song_id]
     return ranked

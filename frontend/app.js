@@ -59,7 +59,10 @@ function renderSongs(songs = []) {
               <div class="song-title">${index + 1}. ${song.track_name}</div>
               <div class="song-meta">${song.artist_name} · ${song.genre} · ${song.language.toUpperCase()} · ${Math.round(song.tempo)} BPM</div>
             </div>
-            <div class="score">${song.rank_score.toFixed(3)}</div>
+            <div class="score-container" style="text-align: right;">
+              <div class="score" style="font-size: 18px; color: var(--accent); font-weight: 800;">${Math.round(song.mood_match_score)}% Match</div>
+              <div class="rank-score" style="font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; font-weight: 500;">Score: ${song.rank_score.toFixed(2)}</div>
+            </div>
           </div>
           <div class="reason-list">
             ${song.reasons.map((reason) => `<span class="reason">${reason}</span>`).join("")}

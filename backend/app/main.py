@@ -109,6 +109,21 @@ def _feedback_counts() -> Dict[str, Dict[str, int]]:
     return counts
 
 
+def _recent_song_ids(session_id: str, limit: int = 3) -> list[str]:
+    with db_session() as conn:
+        rows = conn.execute(
+            text("SELECT song_ids FROM recommendations WHERE session_id = :session_id ORDER BY created_at DESC LIMIT :limit"),
+            {"session_id": session_id, "limit": limit}
+        ).fetchall()
+    recent = []
+    for row in rows:
+        try:
+            recent.extend(json.loads(row[0]))
+        except Exception:
+            pass
+    return recent
+
+
 @app.post("/api/recommendations", response_model=RecommendationResponse)
 def recommend(request: RecommendationRequest) -> RecommendationResponse:
     ensure_user_and_session(request.user_id, request.session_id)
@@ -117,9 +132,10 @@ def recommend(request: RecommendationRequest) -> RecommendationResponse:
     query_embedding = emotion_embedding(request.probabilities)
     candidates = retrieval_engine.search(query_embedding, settings.top_k_candidates)
     user_embedding = get_user_embedding(request.user_id, len(query_embedding))
-    ranked = rank_candidates(candidates, user_embedding, request.limit, _feedback_counts(), request.probabilities, request.language)
+    recent_ids = _recent_song_ids(request.session_id)
+    ranked = rank_candidates(candidates, user_embedding, request.limit, _feedback_counts(), request.probabilities, request.language, recent_ids)
     recommendation_id = str(uuid.uuid4())
-    song_ids = [song.song_id for song, _, _ in ranked]
+    song_ids = [song.song_id for song, _, _, _ in ranked]
     with db_session() as conn:
         conn.execute(
             text(
@@ -152,9 +168,10 @@ def recommend(request: RecommendationRequest) -> RecommendationResponse:
             danceability=song.features["danceability"],
             popularity=song.popularity,
             rank_score=score,
+            mood_match_score=affinity * 100,
             reasons=reasons,
         )
-        for song, score, reasons in ranked
+        for song, score, affinity, reasons in ranked
     ]
     return RecommendationResponse(
         recommendation_id=recommendation_id,

@@ -39,6 +39,7 @@ class SongRecommendation(BaseModel):
     danceability: float
     popularity: float
     rank_score: float
+    mood_match_score: float
     reasons: List[str]
 
 

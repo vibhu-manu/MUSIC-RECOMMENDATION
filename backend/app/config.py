@@ -14,7 +14,7 @@ class Settings(BaseSettings):
     catalog_path: str = str(Path(__file__).resolve().parents[1] / "data" / "sample_spotify_tracks.csv")
     deepface_home: str = "/tmp/.models" if os.environ.get("VERCEL") else str(PROJECT_ROOT / ".models")
     emotion_provider: str = "deepface"
-    top_k_candidates: int = 40
+    top_k_candidates: int = 300
     recommendation_count: int = 10
     smoothing_window: int = 2
 
