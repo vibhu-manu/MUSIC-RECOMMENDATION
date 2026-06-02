@@ -1,151 +1,94 @@
 song_id,track_name,artist_name,genre,language,valence,energy,tempo,danceability,acousticness,speechiness,instrumentalness,liveness,loudness,popularity
-s001,Track 1 (Tamil),Artist 1,hip hop,tamil,0.29,0.8,122,0.69,0.85,0.19,0.47,0.09,-5.3,30
-s002,Track 2 (Tamil),Artist 2,rock,tamil,0.81,0.64,69,0.67,0.61,0.05,0.56,0.17,-13.3,46
-s003,Track 3 (Kannada),Artist 3,electronic,kannada,0.56,0.88,87,0.53,0.01,0.1,0.23,0.08,-13.7,35
-s004,Track 4 (Tamil),Artist 4,electronic,tamil,0.17,0.41,167,0.54,0.53,0.18,0.4,0.04,-5.7,60
-s005,Track 5 (Telugu),Artist 5,electronic,telugu,0.44,0.87,110,0.43,0.63,0.02,0.53,0.06,-6.4,42
-s006,Track 6 (English),Artist 6,folk,english,0.43,0.56,143,0.63,0.19,0.08,0.46,0.33,-7.4,91
-s007,Track 7 (English),Artist 7,acoustic,english,0.26,0.14,154,0.5,0.36,0.01,0.46,0.21,-11.3,68
-s008,Track 8 (Tamil),Artist 8,classical,tamil,0.13,0.48,98,0.66,0.33,0.19,0.33,0.1,-6.7,50
-s009,Track 9 (Telugu),Artist 9,rock,telugu,0.69,0.87,135,0.3,0.66,0.23,0.57,0.37,-11.4,65
-s010,Track 10 (Tamil),Artist 10,electronic,tamil,0.19,0.43,170,0.78,0.46,0.3,0.04,0.01,-8.7,93
-s011,Track 11 (Tamil),Artist 11,hip hop,tamil,0.28,0.29,82,0.44,0.11,0.15,0.15,0.37,-5.6,92
-s012,Track 12 (Tamil),Artist 12,acoustic,tamil,0.7,0.18,139,0.63,0.53,0.1,0.37,0.02,-6.2,44
-s013,Track 13 (Telugu),Artist 13,classical,telugu,0.62,0.19,114,0.27,0.22,0.02,0.78,0.38,-9.1,86
-s014,Track 14 (Telugu),Artist 14,folk,telugu,0.42,0.3,130,0.74,0.37,0.15,0.4,0.13,-5.0,53
-s015,Track 15 (Hindi),Artist 15,hip hop,hindi,0.18,0.84,122,0.65,0.03,0.15,0.53,0.33,-14.4,88
-s016,Track 16 (Telugu),Artist 16,classical,telugu,0.13,0.46,151,0.59,0.36,0.23,0.33,0.15,-5.5,74
-s017,Track 17 (Kannada),Artist 17,electronic,kannada,0.8,0.37,125,0.42,0.39,0.22,0.08,0.35,-14.5,33
-s018,Track 18 (Kannada),Artist 18,classical,kannada,0.67,0.22,161,0.36,0.8,0.09,0.04,0.07,-6.8,82
-s019,Track 19 (Tamil),Artist 19,rock,tamil,0.37,0.47,70,0.69,0.19,0.25,0.75,0.19,-13.0,80
-s020,Track 20 (Kannada),Artist 20,classical,kannada,0.34,0.33,164,0.45,0.62,0.23,0.65,0.27,-3.4,57
-s021,Track 21 (English),Artist 21,pop,english,0.85,0.44,147,0.39,0.53,0.1,0.76,0.2,-11.0,37
-s022,Track 22 (Telugu),Artist 22,hip hop,telugu,0.65,0.19,122,0.49,0.04,0.19,0.4,0.3,-8.1,40
-s023,Track 23 (Tamil),Artist 23,classical,tamil,0.61,0.8,143,0.81,0.32,0.18,0.67,0.22,-5.9,89
-s024,Track 24 (Telugu),Artist 24,folk,telugu,0.63,0.37,98,0.69,0.23,0.3,0.65,0.13,-3.7,76
-s025,Track 25 (Tamil),Artist 25,folk,tamil,0.61,0.64,105,0.69,0.62,0.21,0.27,0.22,-14.3,65
-s026,Track 26 (English),Artist 26,pop,english,0.26,0.87,92,0.38,0.88,0.04,0.05,0.12,-12.9,81
-s027,Track 27 (Hindi),Artist 27,electronic,hindi,0.6,0.69,70,0.33,0.69,0.07,0.71,0.37,-9.4,48
-s028,Track 28 (English),Artist 28,pop,english,0.83,0.44,88,0.79,0.76,0.13,0.13,0.0,-11.1,68
-s029,Track 29 (Hindi),Artist 29,acoustic,hindi,0.84,0.58,170,0.54,0.39,0.01,0.75,0.4,-11.9,73
-s030,Track 30 (Telugu),Artist 30,pop,telugu,0.26,0.29,127,0.71,0.87,0.14,0.29,0.14,-12.7,61
-s031,Track 31 (Telugu),Artist 31,classical,telugu,0.41,0.3,125,0.58,0.02,0.16,0.19,0.27,-12.7,34
-s032,Track 32 (Kannada),Artist 32,acoustic,kannada,0.38,0.83,149,0.71,0.71,0.08,0.52,0.35,-9.2,33
-s033,Track 33 (English),Artist 33,classical,english,0.8,0.57,131,0.58,0.59,0.18,0.44,0.13,-3.2,92
-s034,Track 34 (Hindi),Artist 34,pop,hindi,0.39,0.54,92,0.41,0.1,0.3,0.58,0.35,-10.3,79
-s035,Track 35 (Tamil),Artist 35,electronic,tamil,0.76,0.82,147,0.86,0.32,0.19,0.73,0.15,-8.4,95
-s036,Track 36 (Hindi),Artist 36,folk,hindi,0.48,0.3,120,0.43,0.82,0.11,0.04,0.19,-12.3,37
-s037,Track 37 (Tamil),Artist 37,acoustic,tamil,0.16,0.81,88,0.9,0.87,0.21,0.64,0.07,-10.1,95
-s038,Track 38 (Hindi),Artist 38,rock,hindi,0.28,0.22,87,0.51,0.48,0.06,0.74,0.21,-9.6,67
-s039,Track 39 (Telugu),Artist 39,rock,telugu,0.78,0.88,149,0.53,0.38,0.07,0.18,0.04,-4.2,75
-s040,Track 40 (Telugu),Artist 40,classical,telugu,0.14,0.42,118,0.77,0.24,0.03,0.3,0.24,-5.8,48
-s041,Track 41 (Tamil),Artist 41,electronic,tamil,0.5,0.75,89,0.87,0.14,0.06,0.28,0.28,-8.5,62
-s042,Track 42 (Hindi),Artist 42,pop,hindi,0.16,0.89,153,0.68,0.14,0.25,0.63,0.21,-9.5,79
-s043,Track 43 (Telugu),Artist 43,acoustic,telugu,0.23,0.74,62,0.85,0.35,0.28,0.03,0.06,-9.7,60
-s044,Track 44 (Telugu),Artist 44,pop,telugu,0.73,0.24,90,0.77,0.68,0.1,0.63,0.11,-7.6,75
-s045,Track 45 (Kannada),Artist 45,pop,kannada,0.56,0.8,102,0.6,0.28,0.2,0.75,0.33,-11.2,38
-s046,Track 46 (Telugu),Artist 46,rock,telugu,0.69,0.51,93,0.41,0.15,0.24,0.36,0.36,-4.0,56
-s047,Track 47 (Tamil),Artist 47,pop,tamil,0.46,0.74,159,0.43,0.83,0.06,0.26,0.08,-4.8,74
-s048,Track 48 (English),Artist 48,folk,english,0.77,0.79,149,0.56,0.38,0.16,0.1,0.22,-14.2,54
-s049,Track 49 (Kannada),Artist 49,acoustic,kannada,0.59,0.42,82,0.75,0.61,0.08,0.65,0.34,-11.1,37
-s050,Track 50 (Tamil),Artist 50,pop,tamil,0.36,0.12,78,0.71,0.9,0.18,0.32,0.38,-7.5,61
-s051,Track 51 (Kannada),Artist 51,folk,kannada,0.76,0.54,126,0.58,0.86,0.06,0.34,0.37,-13.7,51
-s052,Track 52 (Telugu),Artist 52,classical,telugu,0.3,0.26,158,0.71,0.42,0.19,0.56,0.38,-9.3,63
-s053,Track 53 (English),Artist 53,hip hop,english,0.8,0.87,60,0.22,0.12,0.15,0.49,0.28,-8.5,49
-s054,Track 54 (Kannada),Artist 54,rock,kannada,0.51,0.87,115,0.21,0.61,0.21,0.72,0.23,-9.8,33
-s055,Track 55 (Tamil),Artist 55,hip hop,tamil,0.63,0.74,99,0.76,0.76,0.03,0.34,0.24,-13.2,61
-s056,Track 56 (English),Artist 56,folk,english,0.35,0.14,87,0.37,0.42,0.21,0.12,0.37,-9.3,68
-s057,Track 57 (Telugu),Artist 57,folk,telugu,0.12,0.58,100,0.88,0.51,0.18,0.14,0.17,-12.9,33
-s058,Track 58 (Hindi),Artist 58,acoustic,hindi,0.88,0.81,134,0.64,0.05,0.27,0.54,0.08,-5.1,61
-s059,Track 59 (Tamil),Artist 59,acoustic,tamil,0.71,0.28,64,0.4,0.54,0.16,0.26,0.04,-14.5,74
-s060,Track 60 (English),Artist 60,hip hop,english,0.61,0.9,102,0.54,0.06,0.2,0.03,0.12,-8.3,90
-s061,Track 61 (Telugu),Artist 61,electronic,telugu,0.74,0.84,154,0.49,0.39,0.26,0.74,0.3,-12.6,74
-s062,Track 62 (Telugu),Artist 62,acoustic,telugu,0.53,0.33,133,0.6,0.58,0.04,0.72,0.3,-13.3,87
-s063,Track 63 (Hindi),Artist 63,classical,hindi,0.51,0.86,161,0.71,0.83,0.27,0.36,0.36,-11.1,68
-s064,Track 64 (English),Artist 64,classical,english,0.84,0.69,167,0.58,0.17,0.07,0.56,0.21,-3.9,90
-s065,Track 65 (Telugu),Artist 65,acoustic,telugu,0.19,0.28,106,0.29,0.7,0.17,0.63,0.12,-6.0,62
-s066,Track 66 (Tamil),Artist 66,rock,tamil,0.9,0.32,141,0.3,0.69,0.24,0.68,0.31,-13.8,68
-s067,Track 67 (English),Artist 67,hip hop,english,0.19,0.41,119,0.6,0.32,0.0,0.57,0.07,-11.4,81
-s068,Track 68 (Telugu),Artist 68,rock,telugu,0.33,0.32,98,0.33,0.64,0.01,0.33,0.32,-3.9,65
-s069,Track 69 (Tamil),Artist 69,folk,tamil,0.72,0.67,88,0.78,0.84,0.07,0.12,0.38,-10.8,36
-s070,Track 70 (Telugu),Artist 70,hip hop,telugu,0.4,0.28,156,0.63,0.08,0.28,0.51,0.07,-7.8,61
-s071,Track 71 (Telugu),Artist 71,electronic,telugu,0.1,0.84,155,0.35,0.49,0.26,0.12,0.11,-5.3,95
-s072,Track 72 (Hindi),Artist 72,folk,hindi,0.57,0.6,73,0.24,0.59,0.23,0.41,0.39,-9.6,40
-s073,Track 73 (English),Artist 73,folk,english,0.28,0.22,73,0.35,0.65,0.15,0.41,0.28,-11.2,67
-s074,Track 74 (Kannada),Artist 74,acoustic,kannada,0.6,0.2,123,0.44,0.41,0.18,0.65,0.06,-8.6,81
-s075,Track 75 (Telugu),Artist 75,classical,telugu,0.66,0.5,173,0.42,0.74,0.15,0.46,0.34,-5.4,65
-s076,Track 76 (Hindi),Artist 76,folk,hindi,0.25,0.36,113,0.76,0.7,0.2,0.31,0.21,-4.0,90
-s077,Track 77 (Tamil),Artist 77,hip hop,tamil,0.44,0.18,113,0.26,0.46,0.09,0.38,0.15,-13.2,47
-s078,Track 78 (Telugu),Artist 78,acoustic,telugu,0.34,0.82,134,0.89,0.84,0.2,0.17,0.02,-3.1,39
-s079,Track 79 (Tamil),Artist 79,classical,tamil,0.27,0.3,158,0.63,0.67,0.19,0.72,0.16,-11.4,76
-s080,Track 80 (English),Artist 80,hip hop,english,0.49,0.82,110,0.41,0.53,0.12,0.69,0.18,-9.0,80
-s081,Track 81 (Tamil),Artist 81,acoustic,tamil,0.74,0.21,80,0.76,0.03,0.27,0.2,0.08,-7.6,54
-s082,Track 82 (English),Artist 82,acoustic,english,0.56,0.23,134,0.59,0.64,0.01,0.06,0.2,-12.5,74
-s083,Track 83 (Telugu),Artist 83,folk,telugu,0.3,0.52,105,0.41,0.8,0.27,0.73,0.2,-3.7,67
-s084,Track 84 (English),Artist 84,pop,english,0.23,0.7,121,0.5,0.52,0.14,0.78,0.08,-7.6,35
-s085,Track 85 (Kannada),Artist 85,pop,kannada,0.45,0.13,93,0.65,0.6,0.26,0.44,0.02,-10.5,45
-s086,Track 86 (Kannada),Artist 86,pop,kannada,0.43,0.51,93,0.81,0.15,0.28,0.74,0.25,-3.8,65
-s087,Track 87 (Kannada),Artist 87,electronic,kannada,0.46,0.29,128,0.63,0.1,0.17,0.17,0.1,-9.4,30
-s088,Track 88 (Telugu),Artist 88,pop,telugu,0.75,0.24,108,0.73,0.18,0.02,0.66,0.28,-9.1,89
-s089,Track 89 (Hindi),Artist 89,electronic,hindi,0.42,0.52,136,0.66,0.84,0.23,0.46,0.29,-13.5,32
-s090,Track 90 (Telugu),Artist 90,rock,telugu,0.23,0.18,83,0.88,0.8,0.0,0.55,0.09,-9.6,57
-s091,Track 91 (Kannada),Artist 91,classical,kannada,0.55,0.9,162,0.37,0.64,0.14,0.38,0.06,-5.7,47
-s092,Track 92 (English),Artist 92,acoustic,english,0.54,0.63,164,0.72,0.81,0.29,0.75,0.13,-6.6,56
-s093,Track 93 (English),Artist 93,electronic,english,0.39,0.7,158,0.36,0.15,0.25,0.51,0.04,-5.7,56
-s094,Track 94 (Hindi),Artist 94,electronic,hindi,0.16,0.56,86,0.84,0.2,0.12,0.74,0.37,-7.2,69
-s095,Track 95 (Kannada),Artist 95,rock,kannada,0.46,0.49,137,0.33,0.18,0.28,0.07,0.23,-5.4,52
-s096,Track 96 (English),Artist 96,classical,english,0.49,0.51,104,0.89,0.63,0.12,0.11,0.38,-12.9,85
-s097,Track 97 (Hindi),Artist 97,acoustic,hindi,0.25,0.59,72,0.89,0.48,0.04,0.67,0.16,-3.1,86
-s098,Track 98 (Tamil),Artist 98,hip hop,tamil,0.25,0.17,164,0.56,0.65,0.28,0.5,0.18,-4.5,92
-s099,Track 99 (Tamil),Artist 99,hip hop,tamil,0.67,0.68,123,0.78,0.07,0.25,0.53,0.28,-14.5,64
-s100,Track 100 (Hindi),Artist 100,pop,hindi,0.66,0.63,131,0.49,0.41,0.01,0.73,0.35,-13.5,54
-s101,Track 101 (Telugu),Artist 101,folk,telugu,0.8,0.57,88,0.54,0.27,0.03,0.44,0.15,-11.6,50
-s102,Track 102 (Tamil),Artist 102,acoustic,tamil,0.49,0.34,111,0.31,0.14,0.27,0.72,0.04,-14.5,30
-s103,Track 103 (Kannada),Artist 103,hip hop,kannada,0.36,0.82,86,0.36,0.87,0.13,0.07,0.12,-10.1,89
-s104,Track 104 (English),Artist 104,electronic,english,0.51,0.4,67,0.45,0.37,0.0,0.29,0.19,-4.2,59
-s105,Track 105 (Telugu),Artist 105,electronic,telugu,0.83,0.68,121,0.57,0.71,0.0,0.76,0.22,-4.6,35
-s106,Track 106 (English),Artist 106,hip hop,english,0.28,0.37,98,0.47,0.65,0.08,0.56,0.26,-5.9,66
-s107,Track 107 (Telugu),Artist 107,acoustic,telugu,0.31,0.18,78,0.62,0.82,0.07,0.55,0.38,-13.4,88
-s108,Track 108 (English),Artist 108,acoustic,english,0.79,0.1,106,0.51,0.27,0.08,0.46,0.21,-5.8,85
-s109,Track 109 (Kannada),Artist 109,electronic,kannada,0.53,0.67,68,0.44,0.46,0.26,0.11,0.07,-8.5,34
-s110,Track 110 (Tamil),Artist 110,rock,tamil,0.27,0.54,180,0.74,0.04,0.0,0.13,0.08,-9.7,59
-s111,Track 111 (Tamil),Artist 111,electronic,tamil,0.59,0.2,66,0.28,0.83,0.23,0.7,0.32,-12.3,73
-s112,Track 112 (Kannada),Artist 112,pop,kannada,0.65,0.14,74,0.82,0.37,0.09,0.71,0.35,-8.9,90
-s113,Track 113 (Hindi),Artist 113,hip hop,hindi,0.76,0.21,82,0.53,0.83,0.21,0.01,0.21,-10.1,90
-s114,Track 114 (English),Artist 114,electronic,english,0.12,0.63,138,0.55,0.33,0.23,0.69,0.3,-6.1,32
-s115,Track 115 (Kannada),Artist 115,electronic,kannada,0.74,0.67,66,0.48,0.31,0.17,0.53,0.36,-3.7,75
-s116,Track 116 (English),Artist 116,pop,english,0.75,0.11,152,0.64,0.83,0.16,0.51,0.07,-10.0,30
-s117,Track 117 (English),Artist 117,acoustic,english,0.69,0.33,96,0.27,0.54,0.09,0.05,0.07,-14.6,58
-s118,Track 118 (English),Artist 118,hip hop,english,0.52,0.12,129,0.56,0.59,0.25,0.4,0.07,-6.5,62
-s119,Track 119 (Tamil),Artist 119,electronic,tamil,0.18,0.87,87,0.45,0.35,0.1,0.29,0.4,-12.4,89
-s120,Track 120 (Telugu),Artist 120,pop,telugu,0.74,0.1,176,0.6,0.87,0.23,0.36,0.23,-4.3,95
-s121,Track 121 (Hindi),Artist 121,classical,hindi,0.15,0.79,125,0.3,0.81,0.07,0.02,0.22,-10.5,45
-s122,Track 122 (Tamil),Artist 122,pop,tamil,0.51,0.62,115,0.68,0.49,0.2,0.25,0.07,-4.3,49
-s123,Track 123 (Hindi),Artist 123,electronic,hindi,0.42,0.24,80,0.84,0.42,0.26,0.64,0.17,-13.0,63
-s124,Track 124 (Hindi),Artist 124,acoustic,hindi,0.66,0.5,81,0.27,0.39,0.22,0.51,0.01,-5.4,95
-s125,Track 125 (Tamil),Artist 125,classical,tamil,0.54,0.23,140,0.26,0.62,0.05,0.39,0.12,-13.0,61
-s126,Track 126 (English),Artist 126,pop,english,0.42,0.29,64,0.5,0.13,0.18,0.7,0.39,-4.7,38
-s127,Track 127 (Telugu),Artist 127,hip hop,telugu,0.42,0.61,142,0.64,0.04,0.26,0.24,0.22,-6.5,69
-s128,Track 128 (Kannada),Artist 128,classical,kannada,0.11,0.53,165,0.26,0.81,0.24,0.6,0.09,-4.1,62
-s129,Track 129 (Kannada),Artist 129,acoustic,kannada,0.44,0.18,119,0.81,0.64,0.15,0.06,0.16,-11.8,93
-s130,Track 130 (Hindi),Artist 130,pop,hindi,0.27,0.28,114,0.25,0.85,0.2,0.64,0.03,-10.4,95
-s131,Track 131 (Hindi),Artist 131,hip hop,hindi,0.12,0.49,109,0.82,0.37,0.26,0.33,0.39,-7.6,33
-s132,Track 132 (Tamil),Artist 132,acoustic,tamil,0.25,0.4,86,0.41,0.06,0.19,0.7,0.12,-7.9,35
-s133,Track 133 (English),Artist 133,folk,english,0.17,0.72,136,0.75,0.59,0.21,0.68,0.28,-14.0,36
-s134,Track 134 (Hindi),Artist 134,pop,hindi,0.6,0.31,126,0.37,0.17,0.04,0.26,0.18,-10.4,71
-s135,Track 135 (Telugu),Artist 135,electronic,telugu,0.53,0.34,127,0.74,0.89,0.12,0.34,0.31,-4.3,68
-s136,Track 136 (Kannada),Artist 136,acoustic,kannada,0.5,0.43,140,0.9,0.2,0.12,0.08,0.06,-6.0,94
-s137,Track 137 (Tamil),Artist 137,pop,tamil,0.53,0.24,67,0.57,0.44,0.25,0.32,0.26,-12.4,55
-s138,Track 138 (Hindi),Artist 138,classical,hindi,0.88,0.78,161,0.68,0.59,0.26,0.56,0.27,-4.7,64
-s139,Track 139 (Kannada),Artist 139,folk,kannada,0.68,0.61,179,0.39,0.18,0.1,0.09,0.21,-6.7,88
-s140,Track 140 (Tamil),Artist 140,electronic,tamil,0.33,0.58,127,0.4,0.16,0.27,0.62,0.32,-7.7,77
-s141,Track 141 (Telugu),Artist 141,acoustic,telugu,0.76,0.11,168,0.84,0.52,0.12,0.01,0.36,-12.1,53
-s142,Track 142 (Hindi),Artist 142,acoustic,hindi,0.74,0.71,148,0.79,0.67,0.28,0.32,0.22,-13.6,47
-s143,Track 143 (Telugu),Artist 143,electronic,telugu,0.77,0.5,119,0.83,0.08,0.13,0.08,0.09,-14.1,89
-s144,Track 144 (Kannada),Artist 144,rock,kannada,0.29,0.8,63,0.66,0.32,0.26,0.4,0.05,-15.0,62
-s145,Track 145 (Hindi),Artist 145,classical,hindi,0.68,0.81,130,0.82,0.35,0.02,0.13,0.16,-4.8,69
-s146,Track 146 (Hindi),Artist 146,rock,hindi,0.51,0.57,109,0.59,0.88,0.06,0.1,0.27,-11.1,40
-s147,Track 147 (Hindi),Artist 147,hip hop,hindi,0.64,0.15,135,0.73,0.12,0.11,0.76,0.19,-14.6,68
-s148,Track 148 (Hindi),Artist 148,folk,hindi,0.84,0.38,116,0.68,0.4,0.25,0.09,0.13,-11.8,59
-s149,Track 149 (Kannada),Artist 149,rock,kannada,0.79,0.89,77,0.45,0.36,0.03,0.67,0.35,-6.9,47
-s150,Track 150 (English),Artist 150,classical,english,0.8,0.75,70,0.63,0.54,0.03,0.3,0.08,-5.6,88
+s001,Anisuthide,Sonu Nigam,acoustic,kannada,0.64,0.43,77,0.56,0.9,0.05,0.2,0.22,-10.2,56
+s002,Bombe Helutaithe,Vijay Prakash,folk,kannada,0.52,0.44,91,0.81,0.49,0.09,0.03,0.26,-7.2,68
+s003,Belageddu,Vijay Prakash,pop,kannada,0.7,0.71,107,0.79,0.2,0.12,0.05,0.2,-7.0,75
+s004,Singara Siriye,Vijay Prakash,folk,kannada,0.9,0.83,118,0.68,0.31,0.13,0.05,0.31,-7.3,47
+s005,Tagaru Banthu Tagaru,Anthony Daasan,rock,kannada,0.75,0.86,142,0.48,0.05,0.1,0.32,0.24,-5.7,51
+s006,Ninnindale,Sonu Nigam,pop,kannada,0.78,0.51,113,0.61,0.41,0.14,0.06,0.14,-7.4,95
+s007,Ondu Malebillu,Armaan Malik,acoustic,kannada,0.68,0.42,89,0.34,0.66,0.11,0.17,0.23,-12.5,93
+s008,Saluthillave,Vijay Prakash,pop,kannada,0.61,0.43,105,0.82,0.14,0.08,0.02,0.19,-7.1,65
+s009,Kavithe Kavithe,Vijay Prakash,pop,kannada,0.52,0.5,85,0.7,0.2,0.08,0.13,0.18,-8.0,75
+s010,Neene Bari Neene,Sonu Nigam,acoustic,kannada,0.43,0.36,76,0.48,0.66,0.09,0.05,0.11,-11.6,54
+s011,Raajakumara Title Track,Vijay Prakash,pop,kannada,0.65,0.82,114,0.69,0.3,0.13,0.07,0.21,-5.3,72
+s012,Natasaarvabhouma Title,Puneeth Rajkumar,rock,kannada,0.85,0.9,136,0.7,0.09,0.04,0.18,0.32,-5.5,58
+s013,Kush Kush,Shreya Ghoshal,pop,kannada,0.83,0.66,108,0.67,0.36,0.11,0.03,0.2,-5.4,56
+s014,Open the Bottle,Vijay Prakash,pop,kannada,0.93,0.8,136,0.77,0.47,0.11,0.15,0.22,-6.6,63
+s015,Chuttu Chuttu,Ravindra Soragavi,folk,kannada,0.83,0.95,128,0.69,0.34,0.1,0.12,0.23,-7.7,79
+s016,Yenammi Yenammi,Vijay Prakash,folk,kannada,0.84,0.74,113,0.67,0.47,0.12,0.1,0.26,-4.8,88
+s017,Jeeva Veene,P. B. Sreenivas,classical,kannada,0.48,0.2,67,0.31,0.9,0.14,0.85,0.31,-17.1,52
+s018,Kanasugara,S. P. Balasubrahmanyam,pop,kannada,0.63,0.7,105,0.65,0.27,0.06,0.14,0.21,-7.3,73
+s019,Appu Baa,Kailash Kher,rock,kannada,0.72,0.94,133,0.66,0.19,0.09,0.3,0.28,-5.9,78
+s020,Madhurame,Rajesh Krishnan,classical,kannada,0.45,0.22,82,0.3,0.95,0.06,0.57,0.29,-14.7,58
+s021,Shape of You,Ed Sheeran,pop,english,0.86,0.56,92,0.67,0.32,0.05,0.14,0.13,-4.0,63
+s022,Blinding Lights,The Weeknd,pop,english,0.76,0.89,169,0.72,0.31,0.07,0.14,0.28,-6.3,85
+s023,Someone Like You,Adele,acoustic,english,0.31,0.33,139,0.55,0.8,0.07,0.01,0.27,-8.3,60
+s024,Bad Guy,Billie Eilish,electronic,english,0.56,0.49,130,0.84,0.22,0.1,0.12,0.19,-6.0,85
+s025,Stay,The Kid LAROI & Justin Bieber,pop,english,0.87,0.84,173,0.78,0.25,0.09,0.07,0.2,-7.2,69
+s026,As It Was,Harry Styles,pop,english,0.57,0.68,173,0.77,0.35,0.13,0.09,0.27,-4.4,50
+s027,Cruel Summer,Taylor Swift,pop,english,0.53,0.67,162,0.87,0.26,0.06,0.0,0.29,-5.1,92
+s028,Flowers,Miley Cyrus,pop,english,0.64,0.59,116,0.68,0.31,0.1,0.0,0.15,-6.3,72
+s029,Believer,Imagine Dragons,rock,english,0.65,0.86,132,0.6,0.15,0.09,0.07,0.18,-5.6,83
+s030,Hotel California,Eagles,rock,english,0.65,0.55,140,0.51,0.15,0.13,0.18,0.16,-3.7,79
+s031,Imagine,John Lennon,acoustic,english,0.36,0.17,82,0.63,0.73,0.04,0.04,0.15,-10.4,68
+s032,Bohemian Rhapsody,Queen,rock,english,0.59,0.34,146,0.45,0.11,0.05,0.03,0.31,-5.5,69
+s033,Hey Jude,The Beatles,pop,english,0.64,0.52,143,0.72,0.4,0.12,0.04,0.17,-4.4,94
+s034,Rolling in the Deep,Adele,pop,english,0.49,0.77,111,0.65,0.24,0.08,0.12,0.27,-7.3,66
+s035,Uptown Funk,Mark Ronson ft. Bruno Mars,funk,english,0.93,0.56,107,0.84,0.19,0.11,0.01,0.15,-5.5,45
+s036,Counting Stars,OneRepublic,pop,english,0.49,0.66,115,0.67,0.14,0.12,0.12,0.19,-5.2,82
+s037,Don't Start Now,Dua Lipa,pop,english,0.6,0.84,123,0.72,0.41,0.15,0.03,0.24,-5.3,46
+s038,Levitating,Dua Lipa,pop,english,0.87,0.81,110,0.73,0.26,0.05,0.13,0.24,-6.9,90
+s039,Thinking Out Loud,Ed Sheeran,pop,english,0.68,0.37,83,0.84,0.11,0.13,0.15,0.31,-7.1,74
+s040,Perfect,Ed Sheeran,pop,english,0.69,0.44,93,0.69,0.1,0.11,0.06,0.17,-7.4,95
+s041,Tum Hi Ho,Arijit Singh,acoustic,hindi,0.45,0.37,98,0.38,0.93,0.12,0.19,0.08,-10.6,78
+s042,Kesariya,Arijit Singh,pop,hindi,0.79,0.74,105,0.86,0.43,0.08,0.03,0.23,-7.1,87
+s043,Chaiyya Chaiyya,Sukhwinder Singh,folk,hindi,0.75,0.92,131,0.61,0.26,0.09,0.05,0.12,-5.1,76
+s044,Apna Bana Le,Arijit Singh,pop,hindi,0.52,0.5,92,0.88,0.14,0.09,0.04,0.3,-5.6,62
+s045,Channa Mereya,Arijit Singh,pop,hindi,0.41,0.45,99,0.61,0.36,0.15,0.04,0.12,-5.9,67
+s046,Kabira,Tochi Raina,acoustic,hindi,0.63,0.46,89,0.47,0.92,0.14,0.02,0.12,-13.1,49
+s047,Kal Ho Naa Ho,Sonu Nigam,pop,hindi,0.47,0.55,90,0.83,0.35,0.09,0.0,0.12,-6.8,92
+s048,Zaalima,Arijit Singh,pop,hindi,0.84,0.64,102,0.62,0.48,0.15,0.03,0.26,-5.0,92
+s049,Dil Diyan Gallan,Atif Aslam,acoustic,hindi,0.67,0.35,88,0.44,0.94,0.11,0.12,0.3,-13.3,92
+s050,Ghar More Pardesiya,Shreya Ghoshal,classical,hindi,0.49,0.58,104,0.25,0.96,0.14,0.85,0.16,-16.2,85
+s051,Ae Dil Hai Mushkil,Arijit Singh,pop,hindi,0.34,0.64,113,0.75,0.2,0.12,0.14,0.29,-4.0,74
+s052,Raataan Lambiyan,Jubin Nautiyal,pop,hindi,0.68,0.68,88,0.84,0.25,0.04,0.03,0.2,-4.7,70
+s053,Bekhayali,Sachet Tandon,rock,hindi,0.21,0.94,137,0.48,0.03,0.05,0.2,0.08,-4.9,45
+s054,Pasoori,Ali Sethi,pop,hindi,0.73,0.66,114,0.62,0.31,0.09,0.15,0.15,-7.9,75
+s055,Tera Yaar Hoon Main,Arijit Singh,acoustic,hindi,0.59,0.55,78,0.51,0.66,0.14,0.22,0.27,-11.5,74
+s056,Jhumme Ki Raat,Mika Singh,pop,hindi,0.98,0.87,126,0.74,0.27,0.13,0.06,0.2,-7.3,69
+s057,Lungi Dance,Yo Yo Honey Singh,pop,hindi,0.94,0.97,124,0.72,0.14,0.14,0.08,0.25,-4.8,73
+s058,Kar Gayi Chull,Badshah,pop,hindi,0.81,0.78,118,0.63,0.27,0.14,0.04,0.24,-5.4,67
+s059,Balam Pichkari,Vishal Dadlani,pop,hindi,0.8,0.92,125,0.62,0.34,0.14,0.03,0.22,-4.8,54
+s060,Senorita,Farhan Akhtar,pop,hindi,0.83,0.81,113,0.81,0.1,0.11,0.01,0.25,-5.3,50
+s061,Butta Bomma,Armaan Malik,pop,telugu,0.87,0.62,105,0.85,0.35,0.07,0.05,0.3,-7.1,89
+s062,Naatu Naatu,Rahul Sipligunj,pop,telugu,0.86,0.92,144,0.62,0.1,0.1,0.14,0.25,-5.1,89
+s063,Samajavaragamana,Sid Sriram,pop,telugu,0.7,0.65,87,0.71,0.27,0.05,0.02,0.2,-4.4,64
+s064,Kalaavathi,Sid Sriram,pop,telugu,0.7,0.69,97,0.69,0.28,0.12,0.1,0.3,-7.5,59
+s065,Ramuloo Ramulaa,Anurag Kulkarni,folk,telugu,0.85,0.75,130,0.81,0.38,0.09,0.05,0.29,-4.1,71
+s066,Oo Antava Oo Oo Antava,Indravathi Chauhan,pop,telugu,0.76,0.71,114,0.71,0.18,0.03,0.01,0.25,-5.3,85
+s067,Srivalli,Sid Sriram,pop,telugu,0.68,0.53,87,0.75,0.34,0.14,0.04,0.17,-4.6,95
+s068,Inkem Inkem,Sid Sriram,pop,telugu,0.73,0.52,85,0.62,0.32,0.06,0.08,0.16,-7.4,91
+s069,Adiga Adiga,Sid Sriram,acoustic,telugu,0.48,0.36,92,0.42,0.72,0.12,0.28,0.13,-13.1,50
+s070,Nee Kannu Neeli Samudram,Javed Ali,pop,telugu,0.72,0.72,100,0.72,0.17,0.07,0.15,0.15,-5.8,84
+s071,Telusa Telusa,Jubin Nautiyal,pop,telugu,0.61,0.6,100,0.75,0.42,0.09,0.13,0.18,-7.2,75
+s072,Undiporaadhey,Sid Sriram,acoustic,telugu,0.65,0.43,79,0.48,0.86,0.14,0.19,0.31,-11.6,89
+s073,Chitti,Ram Miriyala,folk,telugu,0.88,0.77,114,0.62,0.16,0.06,0.15,0.21,-7.8,91
+s074,Saranga Dariya,Mangli,folk,telugu,0.93,0.83,139,0.73,0.36,0.08,0.05,0.24,-6.0,62
+s075,Oye Oye,Siddharth,pop,telugu,0.75,0.76,109,0.61,0.15,0.08,0.09,0.12,-7.2,76
+s076,Priya Mithunam,Vijay Yesudas,classical,telugu,0.45,0.34,79,0.37,0.93,0.13,0.62,0.3,-15.6,81
+s077,Why This Kolaveri Di,Dhanush,pop,tamil,0.74,0.56,97,0.75,0.32,0.08,0.11,0.23,-6.1,45
+s078,Arabic Kuthu,Anirudh Ravichander,pop,tamil,0.86,0.87,126,0.79,0.13,0.13,0.13,0.15,-4.4,70
+s079,Rowdy Baby,Dhanush,pop,tamil,0.89,0.82,132,0.84,0.14,0.13,0.1,0.23,-4.4,88
+s080,Tum Tum,Sri Vardhini,pop,tamil,0.78,0.84,118,0.66,0.43,0.1,0.12,0.13,-5.9,51
+s081,Kabavali,Arunraja Kamaraj,rock,tamil,0.79,0.9,119,0.42,0.16,0.11,0.31,0.14,-4.1,77
+s082,Marakkuma Nenjam,A. R. Rahman,acoustic,tamil,0.43,0.39,86,0.6,0.71,0.14,0.18,0.2,-13.8,89
+s083,Ranjithame,Vijay,folk,tamil,0.82,0.85,128,0.86,0.26,0.05,0.09,0.11,-6.0,75
+s084,Kaavaala,Anirudh Ravichander,pop,tamil,0.79,0.8,124,0.62,0.28,0.04,0.08,0.21,-6.1,60
+s085,Enjoy Enjaami,Dhee,folk,tamil,0.77,0.83,118,0.74,0.37,0.07,0.04,0.29,-7.8,52
+s086,Singappenney,A. R. Rahman,rock,tamil,0.74,0.71,114,0.45,0.11,0.1,0.36,0.24,-5.3,80
+s087,Verithanam,Vijay,pop,tamil,0.93,0.91,133,0.65,0.25,0.09,0.03,0.19,-7.2,74
+s088,Chilla Chilla,Anirudh Ravichander,pop,tamil,0.88,0.84,129,0.64,0.33,0.14,0.01,0.25,-4.9,82
+s089,Hukum,Anirudh Ravichander,rock,tamil,0.75,0.83,147,0.47,0.13,0.06,0.23,0.2,-4.4,45
+s090,Kanja Poovu Kannala,Sid Sriram,acoustic,tamil,0.54,0.5,80,0.54,0.69,0.04,0.13,0.28,-8.7,77
+s091,Kadhaippoma,Sid Sriram,pop,tamil,0.55,0.5,100,0.68,0.18,0.07,0.02,0.22,-6.9,66
+s092,Naan Pizhai,Anirudh Ravichander,acoustic,tamil,0.62,0.42,87,0.41,0.77,0.13,0.18,0.17,-8.5,83
+s093,Bodhai Kaname,Anirudh Ravichander,pop,tamil,0.7,0.66,98,0.71,0.18,0.07,0.01,0.3,-6.7,93

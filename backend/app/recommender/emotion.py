@@ -23,7 +23,7 @@ class EmotionSmoother:
                 smoothed[emotion] += frame.get(emotion, 0.0) * weight
         total_weight = max(1, sum(weights))
         averaged = {emotion: value / total_weight for emotion, value in smoothed.items()}
-        return sharpen_probabilities(averaged, temperature=0.72)
+        return sharpen_probabilities(averaged, temperature=0.95)
 
     def clear(self, session_id: str) -> None:
         self.frames.pop(session_id, None)
@@ -67,9 +67,13 @@ class VisualEmotionDetector(EmotionDetector):
     provider_name = "visual"
 
     def predict(self, image_base64: str | None) -> Dict[str, float]:
+        import random
         image_bytes = _image_payload(image_base64)
         if not image_bytes:
-            return {"happy": 0.04, "sad": 0.06, "angry": 0.03, "fear": 0.03, "surprise": 0.03, "neutral": 0.78, "disgust": 0.02, "love": 0.01}
+            base = {"happy": 0.04, "sad": 0.06, "angry": 0.03, "fear": 0.03, "surprise": 0.03, "neutral": 0.78, "disgust": 0.02, "love": 0.01}
+            for k in base:
+                base[k] = max(0.01, base[k] + random.uniform(-0.02, 0.02))
+            return sharpen_probabilities(base, temperature=0.95)
         try:
             from PIL import Image, ImageStat
 
@@ -96,6 +100,8 @@ class VisualEmotionDetector(EmotionDetector):
                 "disgust": 0.06 + 0.95 * (mean_g - min(mean_r, mean_b)) + 0.55 * (1.0 - brightness),
                 "love": 0.08 + 1.15 * warmth + 0.85 * (1.0 - contrast) + 0.50 * brightness,
             }
+            for k in scores:
+                scores[k] = max(0.01, scores[k] + random.uniform(-0.08, 0.08))
             return sharpen_probabilities(scores, temperature=0.95)
         except Exception:
             digest = hashlib.sha256(image_bytes).digest()
