@@ -113,7 +113,10 @@ def mood_affinity(probabilities: Dict[str, float], song_features: Dict[str, floa
         song_value = _scale_feature(feature, float(song_features.get(feature, 0.0)))
         distance += weight * abs(song_value - target[feature])
         total += weight
-    return max(0.0, 1.0 - (distance / total))
+    raw_affinity = max(0.0, 1.0 - (distance / total))
+    # Stretch raw affinity to show significant variation in the UI
+    stretched = (raw_affinity - 0.58) / 0.30
+    return max(0.12, min(0.98, stretched))
 
 
 def emotion_song_rule_bonus(emotion: str, song_features: Dict[str, float]) -> float:

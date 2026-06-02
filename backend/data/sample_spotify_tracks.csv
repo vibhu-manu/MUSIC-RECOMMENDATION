@@ -1,251 +1,251 @@
 song_id,track_name,artist_name,genre,language,valence,energy,tempo,danceability,acousticness,speechiness,instrumentalness,liveness,loudness,popularity
-s001,Anisuthide,Sonu Nigam,pop,kannada,0.58,0.88,96,0.74,0.4,0.12,0.11,0.11,-4.7,95
-s002,Bombe Helutaithe,Chandan Shetty,acoustic,kannada,0.18,0.11,76,0.52,0.79,0.07,0.04,0.14,-12.4,59
-s003,Belageddu,Raghu Dixit,classical,kannada,0.37,0.23,64,0.22,0.87,0.13,0.81,0.1,-17.8,74
-s004,Singara Siriye,Shreya Ghoshal,rock,kannada,0.65,0.86,153,0.67,0.07,0.14,0.35,0.21,-4.7,72
-s005,Tagaru Banthu,Anuradha Bhat,acoustic,kannada,0.53,0.18,67,0.51,0.75,0.1,0.17,0.16,-11.4,87
-s006,Ninnindale,Sanjith Hegde,classical,kannada,0.16,0.33,83,0.43,0.96,0.09,0.45,0.25,-14.5,54
-s007,Ondu Malebillu,Shreya Ghoshal,rock,kannada,0.35,0.73,147,0.64,0.06,0.05,0.05,0.28,-5.9,55
-s008,Saluthillave,S. P. B.,classical,kannada,0.43,0.28,55,0.26,0.87,0.06,0.56,0.22,-17.7,87
-s009,Kavithe Kavithe,S. P. B.,pop,kannada,0.82,0.67,127,0.74,0.22,0.09,0.1,0.09,-5.1,86
-s010,Neene Bari Neene,Raghu Dixit,rock,kannada,0.69,0.71,119,0.42,0.14,0.1,0.02,0.09,-4.4,92
-s011,Raajakumara Title Track,K. S. Chithra,rock,kannada,0.69,0.72,156,0.63,0.08,0.09,0.08,0.18,-4.5,77
-s012,Natasaarvabhouma,S. P. B.,pop,kannada,0.69,0.62,110,0.83,0.09,0.11,0.12,0.16,-5.9,71
-s013,Kush Kush,Shreya Ghoshal,rock,kannada,0.57,0.91,137,0.53,0.01,0.14,0.18,0.12,-5.6,61
-s014,Open the Bottle,Raghu Dixit,folk,kannada,0.48,0.46,98,0.68,0.51,0.06,0.02,0.29,-8.1,58
-s015,Chuttu Chuttu,Shreya Ghoshal,folk,kannada,0.74,0.59,111,0.64,0.66,0.06,0.08,0.24,-7.5,51
-s016,Yenammi Yenammi,Sonu Nigam,acoustic,kannada,0.5,0.4,94,0.5,0.77,0.04,0.01,0.09,-9.2,79
-s017,Jeeva Veene,Sanjith Hegde,classical,kannada,0.17,0.26,63,0.38,0.86,0.14,0.42,0.2,-11.4,87
-s018,Kanasugara,K. S. Chithra,acoustic,kannada,0.24,0.31,70,0.36,0.76,0.08,0.19,0.24,-11.0,68
-s019,Appu Baa,Shreya Ghoshal,rock,kannada,0.46,0.76,131,0.45,0.1,0.09,0.07,0.1,-6.1,91
-s020,Madhurame,Rajesh Krishnan,classical,kannada,0.28,0.2,59,0.21,0.84,0.05,0.38,0.23,-11.1,78
-s021,Tunturu,Shreya Ghoshal,pop,kannada,0.87,0.61,122,0.83,0.3,0.08,0.07,0.29,-6.8,55
-s022,Nooru Janmaku,K. S. Chithra,classical,kannada,0.58,0.19,83,0.39,0.91,0.15,0.8,0.18,-11.6,59
-s023,Usire Usire,Chandan Shetty,rock,kannada,0.64,0.78,157,0.56,0.08,0.05,0.4,0.23,-4.0,50
-s024,Onde Ondu Maathu,K. S. Chithra,folk,kannada,0.84,0.55,102,0.75,0.54,0.12,0.07,0.28,-8.7,93
-s025,Karunade,Sanjith Hegde,classical,kannada,0.27,0.14,78,0.31,0.97,0.1,0.71,0.12,-15.8,62
-s026,Sambo Siva Sambo,Chandan Shetty,rock,kannada,0.54,0.81,153,0.66,0.09,0.1,0.33,0.21,-5.6,52
-s027,Paravashanadenu,Vijay Prakash,classical,kannada,0.29,0.23,50,0.22,0.95,0.04,0.74,0.27,-12.5,68
-s028,Khaali Peeli,Vijay Prakash,folk,kannada,0.77,0.56,89,0.62,0.43,0.11,0.06,0.29,-7.1,59
-s029,Matte Matte,Raghu Dixit,pop,kannada,0.82,0.84,98,0.76,0.08,0.09,0.02,0.15,-6.9,58
-s030,Preethse,Shreya Ghoshal,acoustic,kannada,0.36,0.34,73,0.49,0.7,0.05,0.11,0.22,-10.4,83
-s031,Anisuthide (Acoustic),Anuradha Bhat,pop,kannada,0.85,0.64,116,0.68,0.26,0.07,0.07,0.13,-6.0,59
-s032,Bombe Helutaithe (Reprise),Sonu Nigam,classical,kannada,0.6,0.31,56,0.39,0.96,0.04,0.35,0.24,-11.4,55
-s033,Belageddu (Lofi Mix),Sanjith Hegde,rock,kannada,0.48,0.78,126,0.64,0.13,0.08,0.29,0.23,-4.5,73
-s034,Singara Siriye (Live),Chandan Shetty,pop,kannada,0.65,0.81,133,0.84,0.37,0.07,0.14,0.25,-7.0,76
-s035,Tagaru Banthu (Club Remix),Sonu Nigam,folk,kannada,0.68,0.67,101,0.78,0.42,0.07,0.08,0.19,-7.9,76
-s036,Ninnindale (Chill Out Mix),Raghu Dixit,pop,kannada,0.8,0.68,113,0.74,0.41,0.13,0.13,0.3,-6.0,58
-s037,Ondu Malebillu (Acoustic),Vijay Prakash,acoustic,kannada,0.25,0.28,68,0.33,0.83,0.1,0.1,0.13,-11.8,56
-s038,Saluthillave (Reprise),K. S. Chithra,pop,kannada,0.66,0.67,104,0.67,0.06,0.06,0.14,0.29,-4.4,54
-s039,Kavithe Kavithe (Lofi Mix),Chandan Shetty,folk,kannada,0.46,0.59,108,0.74,0.49,0.08,0.05,0.15,-8.6,74
-s040,Neene Bari Neene (Live),Anuradha Bhat,folk,kannada,0.72,0.66,120,0.78,0.43,0.12,0.06,0.21,-8.4,76
-s041,Raajakumara Title Track (Club Remix),Anuradha Bhat,acoustic,kannada,0.37,0.41,75,0.35,0.95,0.05,0.09,0.28,-10.2,95
-s042,Natasaarvabhouma (Chill Out Mix),K. S. Chithra,classical,kannada,0.35,0.18,56,0.34,0.88,0.14,0.58,0.12,-11.5,76
-s043,Kush Kush (Acoustic),Sanjith Hegde,folk,kannada,0.82,0.62,87,0.65,0.63,0.14,0.03,0.11,-8.6,62
-s044,Open the Bottle (Reprise),Anuradha Bhat,rock,kannada,0.53,0.94,155,0.56,0.1,0.11,0.02,0.14,-4.0,60
-s045,Chuttu Chuttu (Lofi Mix),Shreya Ghoshal,pop,kannada,0.84,0.72,134,0.86,0.43,0.05,0.09,0.24,-4.8,58
-s046,Yenammi Yenammi (Live),Chandan Shetty,classical,kannada,0.49,0.23,70,0.43,0.97,0.1,0.71,0.16,-13.7,53
-s047,Jeeva Veene (Club Remix),Vijay Prakash,classical,kannada,0.28,0.24,82,0.19,0.82,0.11,0.58,0.29,-17.5,79
-s048,Kanasugara (Chill Out Mix),K. S. Chithra,acoustic,kannada,0.3,0.27,65,0.52,0.9,0.06,0.0,0.29,-9.4,75
-s049,Appu Baa (Acoustic),Shreya Ghoshal,folk,kannada,0.84,0.74,93,0.57,0.66,0.13,0.04,0.29,-7.0,90
-s050,Madhurame (Reprise),Chandan Shetty,folk,kannada,0.67,0.49,103,0.78,0.4,0.14,0.1,0.21,-6.4,71
-s051,Shape of You,Coldplay,electronic,english,0.83,0.74,109,0.8,0.14,0.08,0.13,0.27,-6.2,50
-s052,Blinding Lights,Harry Styles,rock,english,0.33,0.78,137,0.58,0.11,0.12,0.39,0.14,-5.0,90
-s053,Someone Like You,Ed Sheeran,rock,english,0.39,0.85,142,0.43,0.1,0.09,0.26,0.25,-4.3,87
-s054,Bad Guy,Taylor Swift,rock,english,0.37,0.71,138,0.65,0.12,0.06,0.01,0.12,-4.5,75
-s055,Stay,The Weeknd,funk,english,0.93,0.62,130,0.8,0.23,0.05,0.03,0.27,-7.0,64
-s056,As It Was,Harry Styles,rock,english,0.69,0.94,146,0.41,0.09,0.07,0.34,0.27,-6.4,65
-s057,Cruel Summer,Adele,funk,english,0.59,0.83,139,0.78,0.24,0.05,0.08,0.25,-7.1,93
-s058,Flowers,Taylor Swift,funk,english,0.5,0.85,114,0.77,0.1,0.1,0.04,0.15,-7.1,50
-s059,Believer,Harry Styles,acoustic,english,0.31,0.37,80,0.46,0.84,0.05,0.03,0.25,-14.0,62
-s060,Hotel California,The Weeknd,acoustic,english,0.24,0.33,66,0.48,0.71,0.1,0.05,0.2,-12.0,63
-s061,Imagine,Harry Styles,pop,english,0.82,0.79,106,0.77,0.06,0.05,0.11,0.18,-7.9,62
-s062,Bohemian Rhapsody,Coldplay,acoustic,english,0.22,0.17,78,0.5,0.92,0.08,0.07,0.21,-10.9,52
-s063,Hey Jude,Dua Lipa,acoustic,english,0.25,0.32,69,0.52,0.72,0.12,0.09,0.29,-9.3,86
-s064,Rolling in the Deep,Adele,pop,english,0.58,0.77,132,0.86,0.16,0.12,0.11,0.19,-7.7,57
-s065,Uptown Funk,Taylor Swift,funk,english,0.6,0.76,111,0.76,0.17,0.1,0.02,0.3,-6.2,95
-s066,Counting Stars,The Weeknd,rock,english,0.44,0.72,160,0.66,0.08,0.12,0.13,0.23,-6.4,59
-s067,Don't Start Now,Dua Lipa,acoustic,english,0.53,0.37,66,0.32,0.76,0.12,0.12,0.09,-11.5,55
-s068,Levitating,Billie Eilish,acoustic,english,0.21,0.25,80,0.39,0.88,0.13,0.16,0.29,-11.8,74
-s069,Thinking Out Loud,Adele,electronic,english,0.61,0.75,100,0.84,0.32,0.05,0.02,0.12,-7.5,81
-s070,Perfect,Coldplay,acoustic,english,0.44,0.18,87,0.52,0.93,0.11,0.14,0.08,-13.6,89
-s071,All of Me,The Weeknd,acoustic,english,0.46,0.17,83,0.49,0.92,0.06,0.09,0.25,-10.9,50
-s072,Shallow,Billie Eilish,acoustic,english,0.24,0.16,85,0.42,0.92,0.14,0.12,0.2,-11.0,89
-s073,Love Story,The Weeknd,funk,english,0.52,0.62,105,0.78,0.32,0.07,0.09,0.1,-5.3,59
-s074,Radioactive,Bruno Mars,rock,english,0.34,0.7,124,0.64,0.02,0.05,0.39,0.24,-6.2,95
-s075,Wake Me Up,Taylor Swift,funk,english,0.71,0.81,119,0.82,0.3,0.12,0.04,0.27,-6.6,70
-s076,Smells Like Teen Spirit,The Weeknd,rock,english,0.34,0.74,128,0.67,0.05,0.1,0.29,0.16,-4.3,83
-s077,Closer,Harry Styles,pop,english,0.58,0.65,122,0.69,0.25,0.06,0.13,0.3,-5.3,75
-s078,Senorita,Billie Eilish,acoustic,english,0.24,0.28,70,0.51,0.85,0.15,0.01,0.14,-13.4,64
-s079,Stressed Out,Taylor Swift,funk,english,0.63,0.72,107,0.86,0.18,0.07,0.02,0.16,-7.5,58
-s080,Bad Habits,Dua Lipa,electronic,english,0.72,0.67,127,0.84,0.34,0.06,0.06,0.19,-7.2,95
-s081,Shape of You (Acoustic),Taylor Swift,pop,english,0.6,0.87,109,0.78,0.23,0.14,0.1,0.27,-4.7,89
-s082,Blinding Lights (Reprise),Dua Lipa,acoustic,english,0.2,0.14,70,0.5,0.87,0.12,0.02,0.26,-8.4,72
-s083,Someone Like You (Lofi Mix),Imagine Dragons,electronic,english,0.64,0.74,103,0.76,0.15,0.14,0.05,0.13,-4.9,72
-s084,Bad Guy (Live),Adele,funk,english,0.77,0.73,131,0.86,0.33,0.08,0.04,0.16,-7.8,66
-s085,Stay (Club Remix),Dua Lipa,acoustic,english,0.22,0.26,67,0.35,0.75,0.04,0.09,0.29,-9.8,61
-s086,As It Was (Chill Out Mix),Harry Styles,electronic,english,0.83,0.67,112,0.77,0.06,0.13,0.1,0.13,-7.4,60
-s087,Cruel Summer (Acoustic),Adele,acoustic,english,0.54,0.27,83,0.51,0.85,0.08,0.11,0.27,-10.0,58
-s088,Flowers (Reprise),Taylor Swift,acoustic,english,0.34,0.34,67,0.47,0.82,0.11,0.01,0.09,-8.1,51
-s089,Believer (Lofi Mix),Ed Sheeran,acoustic,english,0.15,0.41,75,0.47,0.88,0.12,0.03,0.3,-9.3,60
-s090,Hotel California (Live),Ed Sheeran,rock,english,0.42,0.94,118,0.65,0.03,0.07,0.16,0.3,-5.6,95
-s091,Imagine (Club Remix),Taylor Swift,electronic,english,0.7,0.79,96,0.78,0.21,0.15,0.06,0.28,-7.7,74
-s092,Bohemian Rhapsody (Chill Out Mix),The Weeknd,electronic,english,0.66,0.83,139,0.81,0.39,0.11,0.08,0.25,-6.9,79
-s093,Hey Jude (Acoustic),Ed Sheeran,electronic,english,0.65,0.63,140,0.72,0.22,0.14,0.07,0.26,-5.0,65
-s094,Rolling in the Deep (Reprise),Billie Eilish,acoustic,english,0.29,0.22,86,0.56,0.89,0.08,0.2,0.25,-10.9,88
-s095,Uptown Funk (Lofi Mix),Dua Lipa,acoustic,english,0.23,0.29,73,0.38,0.88,0.11,0.01,0.12,-9.2,61
-s096,Counting Stars (Live),Billie Eilish,funk,english,0.51,0.76,106,0.66,0.25,0.07,0.03,0.15,-7.7,63
-s097,Don't Start Now (Club Remix),Billie Eilish,pop,english,0.56,0.65,130,0.87,0.12,0.1,0.11,0.29,-6.6,61
-s098,Levitating (Chill Out Mix),Ed Sheeran,rock,english,0.3,0.9,131,0.65,0.07,0.13,0.21,0.16,-3.8,62
-s099,Thinking Out Loud (Acoustic),Billie Eilish,pop,english,0.78,0.68,110,0.83,0.31,0.08,0.09,0.2,-7.4,61
-s100,Perfect (Reprise),Ed Sheeran,electronic,english,0.7,0.88,106,0.67,0.36,0.07,0.06,0.11,-4.4,66
-s101,Tum Hi Ho,Atif Aslam,pop,hindi,0.63,0.84,135,0.87,0.24,0.11,0.08,0.25,-7.7,76
-s102,Kesariya,Arijit Singh,pop,hindi,0.6,0.63,127,0.87,0.16,0.14,0.04,0.17,-6.2,62
-s103,Chaiyya Chaiyya,Kailash Kher,classical,hindi,0.23,0.24,81,0.31,0.9,0.13,0.55,0.09,-13.9,58
-s104,Apna Bana Le,Arijit Singh,acoustic,hindi,0.45,0.2,86,0.4,0.85,0.11,0.1,0.2,-12.6,89
-s105,Channa Mereya,Shreya Ghoshal,pop,hindi,0.72,0.63,135,0.72,0.38,0.13,0.08,0.24,-4.3,65
-s106,Kal Ho Naa Ho,Atif Aslam,rock,hindi,0.74,0.71,124,0.4,0.1,0.07,0.1,0.25,-5.8,78
-s107,Kabira,Atif Aslam,classical,hindi,0.34,0.2,50,0.38,0.85,0.06,0.36,0.26,-11.8,78
-s108,Zaalima,Jubin Nautiyal,pop,hindi,0.66,0.8,101,0.85,0.11,0.03,0.12,0.09,-6.0,95
-s109,Dil Diyan Gallan,Arijit Singh,rock,hindi,0.61,0.73,135,0.53,0.01,0.13,0.02,0.13,-4.0,65
-s110,Ghar More Pardesiya,Sukhwinder Singh,folk,hindi,0.73,0.61,96,0.76,0.68,0.14,0.08,0.08,-8.3,74
-s111,Ae Dil Hai Mushkil,Sonu Nigam,acoustic,hindi,0.21,0.29,67,0.49,0.79,0.04,0.2,0.2,-10.5,93
-s112,Raataan Lambiyan,Sonu Nigam,acoustic,hindi,0.37,0.18,71,0.31,0.8,0.07,0.0,0.18,-9.9,66
-s113,Bekhayali,Shreya Ghoshal,rock,hindi,0.71,0.93,116,0.63,0.1,0.07,0.3,0.17,-5.0,87
-s114,Pasoori,Sonu Nigam,classical,hindi,0.64,0.26,66,0.35,0.87,0.14,0.62,0.29,-11.7,89
-s115,Tera Yaar Hoon Main,Kailash Kher,rock,hindi,0.63,0.8,150,0.54,0.14,0.14,0.03,0.27,-3.9,89
-s116,Jhumme Ki Raat,Sukhwinder Singh,rock,hindi,0.47,0.93,151,0.49,0.11,0.03,0.31,0.25,-5.7,62
-s117,Lungi Dance,Neha Kakkar,acoustic,hindi,0.48,0.35,86,0.39,0.94,0.08,0.16,0.25,-11.4,77
-s118,Kar Gayi Chull,Sukhwinder Singh,classical,hindi,0.42,0.33,72,0.33,0.88,0.03,0.51,0.24,-16.0,86
-s119,Balam Pichkari,Kailash Kher,pop,hindi,0.89,0.84,139,0.81,0.15,0.04,0.13,0.25,-4.7,59
-s120,Senorita,Lata Mangeshkar,acoustic,hindi,0.47,0.33,80,0.3,0.84,0.13,0.15,0.09,-12.1,80
-s121,Agar Tum Saath Ho,Shreya Ghoshal,pop,hindi,0.83,0.9,106,0.71,0.12,0.09,0.02,0.17,-5.2,86
-s122,Pee Loon,Neha Kakkar,rock,hindi,0.73,0.75,134,0.42,0.03,0.15,0.29,0.1,-3.7,86
-s123,Kun Faya Kun,Jubin Nautiyal,folk,hindi,0.42,0.51,120,0.76,0.67,0.04,0.09,0.22,-7.2,54
-s124,Zindagi Do Pal Ki,Neha Kakkar,classical,hindi,0.58,0.31,77,0.25,0.93,0.08,0.59,0.18,-17.0,89
-s125,Tum Se Hi,Kailash Kher,acoustic,hindi,0.42,0.34,76,0.31,0.87,0.14,0.0,0.28,-10.3,55
-s126,Hawayein,Sonu Nigam,acoustic,hindi,0.4,0.24,70,0.37,0.8,0.09,0.14,0.1,-13.1,63
-s127,Chura Ke Dil Mera,Sukhwinder Singh,folk,hindi,0.66,0.7,87,0.56,0.6,0.12,0.06,0.23,-7.6,85
-s128,Dil To Pagal Hai,Jubin Nautiyal,folk,hindi,0.83,0.71,109,0.77,0.5,0.04,0.05,0.19,-6.4,91
-s129,Ghungroo,Kailash Kher,classical,hindi,0.24,0.27,72,0.17,0.97,0.1,0.83,0.23,-14.6,54
-s130,Nashe Si Chadh Gayi,Sukhwinder Singh,folk,hindi,0.84,0.58,105,0.76,0.43,0.14,0.07,0.14,-6.3,89
-s131,Tum Hi Ho (Acoustic),Atif Aslam,acoustic,hindi,0.22,0.29,75,0.56,0.84,0.11,0.14,0.13,-8.5,95
-s132,Kesariya (Reprise),Sonu Nigam,acoustic,hindi,0.37,0.28,84,0.53,0.91,0.06,0.2,0.27,-12.5,50
-s133,Chaiyya Chaiyya (Lofi Mix),Jubin Nautiyal,rock,hindi,0.34,0.8,137,0.41,0.09,0.14,0.11,0.18,-6.5,64
-s134,Apna Bana Le (Live),Lata Mangeshkar,rock,hindi,0.58,0.7,131,0.46,0.04,0.14,0.27,0.26,-4.0,90
-s135,Channa Mereya (Club Remix),Arijit Singh,rock,hindi,0.46,0.79,110,0.6,0.06,0.15,0.35,0.27,-5.6,92
-s136,Kal Ho Naa Ho (Chill Out Mix),Atif Aslam,folk,hindi,0.53,0.56,105,0.56,0.54,0.08,0.08,0.2,-7.1,73
-s137,Kabira (Acoustic),Arijit Singh,pop,hindi,0.83,0.74,135,0.74,0.39,0.04,0.12,0.11,-4.7,57
-s138,Zaalima (Reprise),Atif Aslam,rock,hindi,0.7,0.79,133,0.46,0.11,0.06,0.4,0.25,-5.0,70
-s139,Dil Diyan Gallan (Lofi Mix),Sukhwinder Singh,classical,hindi,0.39,0.33,64,0.34,0.82,0.12,0.88,0.24,-16.2,88
-s140,Ghar More Pardesiya (Live),Atif Aslam,pop,hindi,0.51,0.8,120,0.83,0.45,0.04,0.03,0.29,-7.0,70
-s141,Ae Dil Hai Mushkil (Club Remix),Sonu Nigam,rock,hindi,0.64,0.87,141,0.43,0.05,0.12,0.27,0.22,-4.2,59
-s142,Raataan Lambiyan (Chill Out Mix),Jubin Nautiyal,folk,hindi,0.63,0.71,87,0.59,0.47,0.1,0.01,0.27,-7.6,70
-s143,Bekhayali (Acoustic),Jubin Nautiyal,rock,hindi,0.69,0.78,153,0.51,0.12,0.04,0.09,0.26,-5.9,55
-s144,Pasoori (Reprise),Atif Aslam,rock,hindi,0.46,0.91,142,0.6,0.04,0.12,0.05,0.1,-5.9,83
-s145,Tera Yaar Hoon Main (Lofi Mix),Sukhwinder Singh,classical,hindi,0.49,0.09,85,0.18,0.91,0.03,0.63,0.2,-13.4,82
-s146,Jhumme Ki Raat (Live),Jubin Nautiyal,pop,hindi,0.8,0.6,121,0.85,0.21,0.04,0.11,0.1,-7.1,50
-s147,Lungi Dance (Club Remix),Sonu Nigam,pop,hindi,0.71,0.71,96,0.81,0.13,0.11,0.06,0.27,-6.6,77
-s148,Kar Gayi Chull (Chill Out Mix),Jubin Nautiyal,classical,hindi,0.32,0.31,52,0.28,0.84,0.09,0.52,0.24,-15.9,82
-s149,Balam Pichkari (Acoustic),Arijit Singh,rock,hindi,0.52,0.8,111,0.6,0.09,0.13,0.05,0.28,-5.1,76
-s150,Senorita (Reprise),Shreya Ghoshal,folk,hindi,0.63,0.51,106,0.65,0.51,0.08,0.05,0.19,-8.1,89
-s151,Butta Bomma,Anurag Kulkarni,folk,telugu,0.81,0.74,103,0.65,0.43,0.12,0.08,0.19,-6.9,54
-s152,Naatu Naatu,Anurag Kulkarni,acoustic,telugu,0.44,0.24,78,0.56,0.87,0.12,0.1,0.1,-12.7,58
-s153,Samajavaragamana,Mangli,rock,telugu,0.52,0.9,110,0.47,0.02,0.14,0.23,0.2,-5.8,62
-s154,Kalaavathi,Sunitha,pop,telugu,0.63,0.61,118,0.65,0.3,0.05,0.13,0.09,-6.3,69
-s155,Ramuloo Ramulaa,Rahul Sipligunj,acoustic,telugu,0.53,0.34,82,0.36,0.9,0.06,0.02,0.09,-8.1,58
-s156,Oo Antava Oo Oo Antava,Shreya Ghoshal,pop,telugu,0.72,0.73,139,0.82,0.06,0.04,0.11,0.2,-4.3,87
-s157,Srivalli,Sunitha,acoustic,telugu,0.44,0.19,95,0.34,0.73,0.04,0.02,0.26,-8.7,57
-s158,Inkem Inkem Inkem Kaavaale,Mangli,classical,telugu,0.48,0.21,68,0.3,0.94,0.07,0.64,0.19,-17.0,89
-s159,Adiga Adiga,Rahul Sipligunj,classical,telugu,0.57,0.07,63,0.22,0.85,0.1,0.45,0.22,-14.5,64
-s160,Nee Kannu Neeli Samudram,Shreya Ghoshal,folk,telugu,0.46,0.54,121,0.66,0.42,0.08,0.09,0.1,-8.8,94
-s161,Telusa Telusa,Sid Sriram,acoustic,telugu,0.16,0.37,81,0.52,0.8,0.08,0.13,0.26,-9.9,58
-s162,Undiporaadhey,Sid Sriram,acoustic,telugu,0.17,0.43,94,0.58,0.86,0.12,0.2,0.19,-9.9,90
-s163,Chitti,S. P. B.,folk,telugu,0.47,0.59,105,0.7,0.6,0.12,0.09,0.12,-9.0,74
-s164,Saranga Dariya,S. P. B.,acoustic,telugu,0.44,0.17,86,0.49,0.84,0.03,0.14,0.12,-11.0,82
-s165,Oye Oye,Shreya Ghoshal,rock,telugu,0.53,0.89,131,0.45,0.15,0.1,0.25,0.21,-5.0,86
-s166,Priya Mithunam,Sid Sriram,folk,telugu,0.82,0.65,125,0.58,0.61,0.14,0.02,0.2,-6.3,59
-s167,Evare,Anurag Kulkarni,classical,telugu,0.27,0.07,68,0.36,0.88,0.11,0.72,0.12,-11.5,71
-s168,Nuvvostanante Neddontana,Sid Sriram,pop,telugu,0.84,0.83,106,0.85,0.21,0.05,0.13,0.19,-4.4,75
-s169,Mellaga Karagani,Anurag Kulkarni,pop,telugu,0.73,0.74,115,0.74,0.14,0.03,0.04,0.2,-6.9,92
-s170,Oosupodu,Sid Sriram,folk,telugu,0.57,0.49,94,0.55,0.43,0.07,0.09,0.29,-8.4,93
-s171,Dheevara,Mangli,pop,telugu,0.88,0.89,109,0.82,0.11,0.11,0.03,0.12,-7.5,57
-s172,Saahore Baahubali,Anurag Kulkarni,acoustic,telugu,0.28,0.17,83,0.4,0.89,0.07,0.1,0.18,-8.8,66
-s173,Pucho Prema Hele,Sid Sriram,rock,telugu,0.72,0.9,120,0.49,0.02,0.1,0.21,0.26,-3.9,61
-s174,My Love,Chithra,pop,telugu,0.79,0.76,108,0.68,0.3,0.12,0.13,0.17,-5.6,64
-s175,Seethamma Vakitlo,Mangli,pop,telugu,0.55,0.63,95,0.76,0.07,0.11,0.02,0.24,-5.9,77
-s176,Ciciliya Ciciliya,Sid Sriram,folk,telugu,0.42,0.57,95,0.71,0.57,0.13,0.04,0.14,-8.5,77
-s177,Apple Beauty,Anurag Kulkarni,acoustic,telugu,0.2,0.1,73,0.44,0.75,0.09,0.07,0.14,-9.7,50
-s178,Laalijo,Karthik,classical,telugu,0.4,0.18,70,0.35,0.85,0.09,0.4,0.16,-15.0,69
-s179,Arere Yemaindi,S. P. B.,folk,telugu,0.47,0.52,109,0.68,0.64,0.14,0.01,0.26,-7.7,91
-s180,Vintunnavaa,Sid Sriram,classical,telugu,0.16,0.28,84,0.33,0.81,0.11,0.77,0.24,-17.5,75
-s181,Butta Bomma (Acoustic),Sid Sriram,rock,telugu,0.64,0.86,159,0.67,0.06,0.14,0.4,0.17,-6.3,66
-s182,Naatu Naatu (Reprise),Rahul Sipligunj,folk,telugu,0.47,0.49,117,0.57,0.48,0.11,0.01,0.09,-5.8,88
-s183,Samajavaragamana (Lofi Mix),S. P. B.,rock,telugu,0.63,0.9,152,0.54,0.03,0.06,0.04,0.23,-5.2,54
-s184,Kalaavathi (Live),Mangli,rock,telugu,0.52,0.82,131,0.67,0.01,0.12,0.04,0.1,-4.4,95
-s185,Ramuloo Ramulaa (Club Remix),Sunitha,acoustic,telugu,0.27,0.45,70,0.33,0.89,0.06,0.11,0.28,-11.1,84
-s186,Oo Antava Oo Oo Antava (Chill Out Mix),Rahul Sipligunj,acoustic,telugu,0.38,0.17,68,0.5,0.79,0.09,0.05,0.14,-11.6,95
-s187,Srivalli (Acoustic),Karthik,folk,telugu,0.47,0.54,108,0.63,0.49,0.11,0.09,0.3,-7.5,79
-s188,Inkem Inkem Inkem Kaavaale (Reprise),Chithra,rock,telugu,0.59,0.74,154,0.67,0.03,0.1,0.37,0.21,-5.9,82
-s189,Adiga Adiga (Lofi Mix),Shreya Ghoshal,acoustic,telugu,0.17,0.25,89,0.45,0.83,0.1,0.01,0.19,-10.2,80
-s190,Nee Kannu Neeli Samudram (Live),Sunitha,acoustic,telugu,0.36,0.17,78,0.41,0.78,0.04,0.15,0.22,-13.2,91
-s191,Telusa Telusa (Club Remix),Shreya Ghoshal,folk,telugu,0.51,0.46,125,0.6,0.58,0.05,0.09,0.25,-6.2,55
-s192,Undiporaadhey (Chill Out Mix),Sunitha,folk,telugu,0.54,0.66,93,0.76,0.46,0.12,0.02,0.13,-7.7,54
-s193,Chitti (Acoustic),Rahul Sipligunj,acoustic,telugu,0.34,0.38,73,0.41,0.77,0.09,0.18,0.09,-9.5,55
-s194,Saranga Dariya (Reprise),Mangli,pop,telugu,0.6,0.88,110,0.72,0.4,0.03,0.04,0.28,-8.0,92
-s195,Oye Oye (Lofi Mix),Karthik,rock,telugu,0.43,0.73,134,0.61,0.11,0.08,0.22,0.26,-4.0,54
-s196,Priya Mithunam (Live),Shreya Ghoshal,rock,telugu,0.66,0.73,119,0.42,0.13,0.1,0.39,0.1,-4.4,89
-s197,Evare (Club Remix),S. P. B.,classical,telugu,0.21,0.28,79,0.28,0.8,0.15,0.33,0.12,-16.5,76
-s198,Nuvvostanante Neddontana (Chill Out Mix),Rahul Sipligunj,acoustic,telugu,0.45,0.25,73,0.31,0.81,0.04,0.01,0.26,-9.8,90
-s199,Mellaga Karagani (Acoustic),Rahul Sipligunj,rock,telugu,0.59,0.73,151,0.67,0.05,0.04,0.2,0.13,-4.2,50
-s200,Oosupodu (Reprise),Sunitha,classical,telugu,0.56,0.06,63,0.3,0.88,0.04,0.63,0.29,-14.3,59
-s201,Why This Kolaveri Di,Anirudh Ravichander,classical,tamil,0.23,0.28,59,0.24,0.95,0.14,0.46,0.24,-17.5,69
-s202,Arabic Kuthu,Dhee,folk,tamil,0.78,0.6,97,0.71,0.59,0.1,0.02,0.13,-6.4,80
-s203,Rowdy Baby,A. R. Rahman,rock,tamil,0.35,0.74,155,0.55,0.05,0.03,0.07,0.25,-5.4,75
-s204,Tum Tum,S. P. B.,folk,tamil,0.69,0.75,119,0.75,0.66,0.15,0.08,0.09,-5.6,50
-s205,Kabavali,Sid Sriram,pop,tamil,0.64,0.68,130,0.78,0.17,0.1,0.07,0.14,-7.4,93
-s206,Marakkuma Nenjam,Anirudh Ravichander,rock,tamil,0.61,0.75,152,0.47,0.15,0.15,0.26,0.08,-5.0,80
-s207,Ranjithame,Vijay,rock,tamil,0.51,0.85,151,0.52,0.08,0.12,0.26,0.08,-6.1,94
-s208,Kaavaala,A. R. Rahman,acoustic,tamil,0.18,0.14,65,0.36,0.7,0.03,0.17,0.11,-13.4,63
-s209,Enjoy Enjaami,A. R. Rahman,pop,tamil,0.79,0.78,130,0.77,0.15,0.1,0.1,0.17,-7.0,60
-s210,Singappenney,Shreya Ghoshal,classical,tamil,0.19,0.35,85,0.2,0.85,0.15,0.84,0.13,-16.2,95
-s211,Verithanam,S. P. B.,rock,tamil,0.67,0.91,140,0.54,0.02,0.12,0.31,0.18,-5.3,81
-s212,Chilla Chilla,Dhee,pop,tamil,0.74,0.86,112,0.73,0.34,0.05,0.06,0.25,-5.2,51
-s213,Hukum,Dhee,pop,tamil,0.81,0.69,137,0.72,0.23,0.11,0.03,0.09,-6.0,64
-s214,Kanja Poovu Kannala,Vijay,acoustic,tamil,0.31,0.24,76,0.52,0.86,0.11,0.18,0.19,-9.3,65
-s215,Kadhaippoma,Harris Jayaraj,classical,tamil,0.45,0.15,60,0.29,0.84,0.08,0.8,0.18,-12.5,79
-s216,Naan Pizhai,Shreya Ghoshal,folk,tamil,0.44,0.74,100,0.71,0.43,0.09,0.01,0.09,-8.0,90
-s217,Bodhai Kaname,Dhee,folk,tamil,0.8,0.55,118,0.63,0.43,0.09,0.04,0.1,-6.6,87
-s218,Vaseegara,Sid Sriram,rock,tamil,0.61,0.83,119,0.47,0.02,0.07,0.09,0.18,-4.1,70
-s219,Munbe Vaa,Vijay,rock,tamil,0.59,0.87,159,0.49,0.04,0.06,0.22,0.16,-3.9,81
-s220,Nenjukkul Peidhidum,S. P. B.,folk,tamil,0.83,0.67,124,0.58,0.49,0.05,0.05,0.28,-8.0,92
-s221,Kannazhaga,Dhee,acoustic,tamil,0.54,0.23,79,0.41,0.81,0.13,0.13,0.21,-9.3,84
-s222,Unakku Thaan,S. P. B.,classical,tamil,0.6,0.3,69,0.2,0.83,0.14,0.53,0.14,-14.8,76
-s223,Ennodu Nee Irundhal,A. R. Rahman,pop,tamil,0.81,0.78,137,0.75,0.26,0.13,0.08,0.21,-6.1,74
-s224,Aalaporaan Thamizhan,A. R. Rahman,acoustic,tamil,0.17,0.13,90,0.45,0.8,0.07,0.13,0.1,-9.4,62
-s225,High on Love,Dhanush,classical,tamil,0.37,0.11,64,0.23,0.89,0.07,0.62,0.29,-12.3,63
-s226,New York Nagaram,S. P. B.,pop,tamil,0.73,0.77,125,0.72,0.25,0.03,0.08,0.3,-7.8,94
-s227,Adiye,Vijay,rock,tamil,0.35,0.83,139,0.5,0.05,0.14,0.27,0.14,-4.5,91
-s228,Karka Karka,Vijay,rock,tamil,0.39,0.89,139,0.55,0.14,0.09,0.26,0.13,-4.7,60
-s229,Oru Maalai,Dhanush,pop,tamil,0.71,0.88,111,0.84,0.34,0.07,0.02,0.21,-5.5,90
-s230,Pookkalae Sattru Oyivedungal,Dhanush,classical,tamil,0.44,0.2,77,0.36,0.86,0.12,0.61,0.11,-11.9,53
-s231,Why This Kolaveri Di (Acoustic),Dhanush,acoustic,tamil,0.21,0.26,85,0.52,0.88,0.04,0.12,0.15,-12.6,72
-s232,Arabic Kuthu (Reprise),Sid Sriram,folk,tamil,0.42,0.6,106,0.71,0.52,0.04,0.06,0.11,-7.4,66
-s233,Rowdy Baby (Lofi Mix),Sid Sriram,acoustic,tamil,0.25,0.36,88,0.45,0.77,0.11,0.09,0.1,-10.7,54
-s234,Tum Tum (Live),Shreya Ghoshal,folk,tamil,0.75,0.52,89,0.59,0.44,0.13,0.05,0.16,-8.7,79
-s235,Kabavali (Club Remix),Dhee,classical,tamil,0.45,0.1,53,0.36,0.94,0.14,0.8,0.25,-16.9,93
-s236,Marakkuma Nenjam (Chill Out Mix),Vijay,folk,tamil,0.51,0.74,90,0.6,0.48,0.14,0.02,0.11,-6.5,59
-s237,Ranjithame (Acoustic),Harris Jayaraj,acoustic,tamil,0.43,0.25,81,0.56,0.84,0.12,0.12,0.11,-10.9,84
-s238,Kaavaala (Reprise),Sid Sriram,folk,tamil,0.8,0.51,109,0.7,0.55,0.15,0.03,0.27,-6.1,76
-s239,Enjoy Enjaami (Lofi Mix),Yuvan Shankar Raja,acoustic,tamil,0.35,0.24,80,0.55,0.72,0.15,0.1,0.19,-8.3,71
-s240,Singappenney (Live),Vijay,acoustic,tamil,0.51,0.43,84,0.51,0.88,0.07,0.17,0.14,-10.9,68
-s241,Verithanam (Club Remix),Harris Jayaraj,acoustic,tamil,0.5,0.11,80,0.42,0.73,0.03,0.07,0.29,-12.4,52
-s242,Chilla Chilla (Chill Out Mix),Shreya Ghoshal,pop,tamil,0.59,0.79,124,0.82,0.3,0.06,0.01,0.24,-5.7,77
-s243,Hukum (Acoustic),Harris Jayaraj,acoustic,tamil,0.41,0.35,81,0.56,0.79,0.08,0.18,0.25,-12.6,63
-s244,Kanja Poovu Kannala (Reprise),Yuvan Shankar Raja,folk,tamil,0.73,0.65,125,0.62,0.65,0.14,0.01,0.24,-8.3,52
-s245,Kadhaippoma (Lofi Mix),Anirudh Ravichander,classical,tamil,0.26,0.16,50,0.38,0.9,0.05,0.44,0.24,-17.1,51
-s246,Naan Pizhai (Live),Vijay,acoustic,tamil,0.49,0.15,81,0.39,0.74,0.06,0.07,0.2,-8.7,70
-s247,Bodhai Kaname (Club Remix),Anirudh Ravichander,acoustic,tamil,0.31,0.37,70,0.56,0.81,0.04,0.05,0.18,-9.8,63
-s248,Vaseegara (Chill Out Mix),S. P. B.,pop,tamil,0.79,0.73,136,0.74,0.43,0.08,0.01,0.13,-6.0,63
-s249,Munbe Vaa (Acoustic),Dhee,acoustic,tamil,0.19,0.39,75,0.56,0.72,0.04,0.06,0.29,-12.0,88
-s250,Nenjukkul Peidhidum (Reprise),S. P. B.,folk,tamil,0.78,0.47,109,0.77,0.47,0.1,0.04,0.23,-8.9,76
+s001,Anisuthide,Raghu Dixit,pop,kannada,0.65,0.87,139,0.79,0.24,0.08,0.02,0.3,-5.2,54
+s002,Bombe Helutaithe,Vijay Prakash,pop,kannada,0.72,0.81,102,0.77,0.42,0.07,0.07,0.23,-6.6,86
+s003,Belageddu,Vijay Prakash,classical,kannada,0.54,0.27,59,0.41,0.96,0.06,0.66,0.16,-11.3,62
+s004,Singara Siriye,Chandan Shetty,classical,kannada,0.44,0.06,65,0.39,0.86,0.07,0.45,0.1,-17.6,92
+s005,Tagaru Banthu,Raghu Dixit,pop,kannada,0.63,0.74,116,0.77,0.2,0.05,0.08,0.24,-8.0,67
+s006,Ninnindale,Anuradha Bhat,classical,kannada,0.53,0.26,79,0.19,0.92,0.07,0.9,0.18,-13.0,66
+s007,Ondu Malebillu,Vijay Prakash,pop,kannada,0.66,0.76,97,0.8,0.18,0.09,0.04,0.28,-5.8,82
+s008,Saluthillave,Raghu Dixit,rock,kannada,0.58,0.91,130,0.64,0.05,0.07,0.39,0.22,-4.5,80
+s009,Kavithe Kavithe,Anuradha Bhat,rock,kannada,0.43,0.89,133,0.56,0.14,0.14,0.25,0.08,-3.9,80
+s010,Neene Bari Neene,Chandan Shetty,pop,kannada,0.92,0.72,133,0.68,0.25,0.04,0.03,0.09,-6.2,65
+s011,Raajakumara Title Track,Raghu Dixit,rock,kannada,0.65,0.89,159,0.6,0.13,0.03,0.22,0.22,-4.0,80
+s012,Natasaarvabhouma,Sonu Nigam,pop,kannada,0.81,0.66,136,0.73,0.4,0.09,0.07,0.22,-5.7,93
+s013,Kush Kush,K. S. Chithra,acoustic,kannada,0.38,0.1,77,0.59,0.84,0.07,0.19,0.09,-10.4,56
+s014,Open the Bottle,Shreya Ghoshal,folk,kannada,0.5,0.58,92,0.69,0.59,0.07,0.01,0.13,-6.2,74
+s015,Chuttu Chuttu,Sonu Nigam,rock,kannada,0.33,0.82,158,0.64,0.09,0.1,0.13,0.11,-4.6,88
+s016,Yenammi Yenammi,K. S. Chithra,rock,kannada,0.39,0.86,140,0.61,0.06,0.07,0.17,0.21,-4.6,66
+s017,Jeeva Veene,Chandan Shetty,acoustic,kannada,0.55,0.35,65,0.37,0.85,0.11,0.2,0.28,-9.3,75
+s018,Kanasugara,Sanjith Hegde,acoustic,kannada,0.21,0.22,88,0.57,0.71,0.12,0.03,0.15,-11.1,50
+s019,Appu Baa,Shreya Ghoshal,classical,kannada,0.3,0.28,74,0.4,0.93,0.06,0.34,0.23,-11.8,58
+s020,Madhurame,Sanjith Hegde,acoustic,kannada,0.31,0.24,76,0.46,0.7,0.14,0.11,0.17,-8.3,85
+s021,Tunturu,Raghu Dixit,folk,kannada,0.42,0.68,85,0.78,0.51,0.08,0.05,0.12,-8.0,74
+s022,Nooru Janmaku,Raghu Dixit,pop,kannada,0.54,0.72,130,0.68,0.25,0.08,0.02,0.2,-5.1,83
+s023,Usire Usire,Raghu Dixit,rock,kannada,0.55,0.9,154,0.61,0.04,0.06,0.26,0.08,-3.6,52
+s024,Onde Ondu Maathu,S. P. B.,rock,kannada,0.58,0.81,121,0.58,0.03,0.08,0.22,0.27,-6.3,83
+s025,Karunade,S. P. B.,rock,kannada,0.49,0.82,160,0.5,0.13,0.05,0.17,0.16,-4.1,52
+s026,Sambo Siva Sambo,K. S. Chithra,rock,kannada,0.6,0.78,160,0.41,0.12,0.14,0.09,0.17,-5.4,70
+s027,Paravashanadenu,Vijay Prakash,acoustic,kannada,0.35,0.16,87,0.39,0.89,0.08,0.0,0.25,-10.9,57
+s028,Khaali Peeli,Anuradha Bhat,pop,kannada,0.94,0.7,96,0.79,0.43,0.09,0.1,0.22,-6.1,86
+s029,Matte Matte,K. S. Chithra,acoustic,kannada,0.3,0.17,70,0.39,0.8,0.08,0.01,0.2,-10.0,68
+s030,Preethse,Raghu Dixit,rock,kannada,0.6,0.78,120,0.63,0.04,0.14,0.03,0.26,-6.0,69
+s031,Anisuthide (Acoustic),K. S. Chithra,classical,kannada,0.22,0.1,75,0.42,0.91,0.13,0.75,0.09,-14.3,62
+s032,Bombe Helutaithe (Reprise),Sanjith Hegde,rock,kannada,0.53,0.85,159,0.45,0.01,0.1,0.32,0.19,-6.1,54
+s033,Belageddu (Lofi Mix),Raghu Dixit,rock,kannada,0.7,0.83,160,0.5,0.11,0.09,0.27,0.24,-3.9,65
+s034,Singara Siriye (Live),Sonu Nigam,classical,kannada,0.51,0.1,77,0.34,0.91,0.09,0.61,0.29,-14.3,66
+s035,Tagaru Banthu (Club Remix),Chandan Shetty,classical,kannada,0.33,0.34,70,0.36,0.95,0.1,0.33,0.2,-17.8,87
+s036,Ninnindale (Chill Out Mix),Sanjith Hegde,rock,kannada,0.41,0.9,136,0.62,0.12,0.12,0.01,0.21,-4.6,92
+s037,Ondu Malebillu (Acoustic),Vijay Prakash,classical,kannada,0.58,0.2,50,0.41,0.89,0.07,0.62,0.17,-11.1,63
+s038,Saluthillave (Reprise),Chandan Shetty,folk,kannada,0.55,0.59,111,0.74,0.46,0.09,0.04,0.21,-5.7,63
+s039,Kavithe Kavithe (Lofi Mix),Raghu Dixit,acoustic,kannada,0.16,0.11,82,0.53,0.73,0.04,0.17,0.18,-10.3,68
+s040,Neene Bari Neene (Live),Vijay Prakash,classical,kannada,0.19,0.21,63,0.35,0.91,0.1,0.4,0.25,-15.8,93
+s041,Raajakumara Title Track (Club Remix),K. S. Chithra,classical,kannada,0.65,0.35,83,0.41,0.96,0.03,0.31,0.24,-11.8,56
+s042,Natasaarvabhouma (Chill Out Mix),Rajesh Krishnan,acoustic,kannada,0.3,0.37,85,0.6,0.84,0.1,0.14,0.28,-11.1,55
+s043,Kush Kush (Acoustic),S. P. B.,classical,kannada,0.25,0.29,55,0.32,0.84,0.03,0.71,0.19,-17.1,72
+s044,Open the Bottle (Reprise),Rajesh Krishnan,rock,kannada,0.72,0.88,138,0.54,0.05,0.06,0.28,0.21,-3.7,76
+s045,Chuttu Chuttu (Lofi Mix),Sonu Nigam,classical,kannada,0.45,0.21,69,0.39,0.85,0.11,0.69,0.23,-14.5,89
+s046,Yenammi Yenammi (Live),Anuradha Bhat,acoustic,kannada,0.35,0.18,71,0.52,0.85,0.08,0.08,0.13,-12.7,87
+s047,Jeeva Veene (Club Remix),Vijay Prakash,folk,kannada,0.7,0.49,123,0.59,0.66,0.04,0.04,0.3,-5.9,65
+s048,Kanasugara (Chill Out Mix),Shreya Ghoshal,acoustic,kannada,0.16,0.4,65,0.47,0.83,0.11,0.03,0.2,-12.2,78
+s049,Appu Baa (Acoustic),Raghu Dixit,folk,kannada,0.49,0.49,100,0.78,0.42,0.04,0.07,0.1,-7.0,61
+s050,Madhurame (Reprise),S. P. B.,folk,kannada,0.69,0.55,98,0.78,0.57,0.05,0.01,0.15,-6.0,75
+s051,Shape of You,Ed Sheeran,acoustic,english,0.23,0.35,71,0.44,0.89,0.13,0.07,0.18,-10.8,78
+s052,Blinding Lights,Coldplay,rock,english,0.65,0.9,131,0.48,0.02,0.05,0.34,0.28,-5.9,73
+s053,Someone Like You,The Weeknd,pop,english,0.73,0.65,108,0.75,0.06,0.04,0.1,0.17,-4.3,54
+s054,Bad Guy,Coldplay,electronic,english,0.83,0.69,116,0.68,0.14,0.1,0.14,0.1,-4.6,92
+s055,Stay,The Weeknd,pop,english,0.94,0.85,130,0.75,0.13,0.09,0.04,0.2,-5.5,54
+s056,As It Was,The Weeknd,rock,english,0.75,0.86,137,0.62,0.11,0.12,0.39,0.24,-3.6,66
+s057,Cruel Summer,Dua Lipa,electronic,english,0.76,0.63,114,0.71,0.19,0.09,0.01,0.18,-5.7,52
+s058,Flowers,Imagine Dragons,pop,english,0.89,0.76,137,0.76,0.11,0.13,0.12,0.12,-4.3,50
+s059,Believer,The Weeknd,acoustic,english,0.52,0.39,75,0.34,0.72,0.13,0.07,0.23,-13.6,86
+s060,Hotel California,Adele,electronic,english,0.86,0.67,115,0.78,0.42,0.04,0.13,0.14,-5.5,94
+s061,Imagine,Coldplay,funk,english,0.53,0.67,114,0.74,0.28,0.11,0.02,0.21,-7.4,61
+s062,Bohemian Rhapsody,Imagine Dragons,acoustic,english,0.29,0.36,88,0.48,0.74,0.1,0.09,0.14,-8.1,91
+s063,Hey Jude,Taylor Swift,rock,english,0.48,0.75,146,0.48,0.1,0.13,0.32,0.26,-5.3,75
+s064,Rolling in the Deep,Taylor Swift,funk,english,0.69,0.87,97,0.72,0.32,0.13,0.11,0.21,-5.9,63
+s065,Uptown Funk,Harry Styles,rock,english,0.45,0.83,137,0.5,0.15,0.05,0.26,0.24,-4.8,84
+s066,Counting Stars,Harry Styles,funk,english,0.77,0.63,122,0.88,0.24,0.1,0.06,0.14,-4.3,94
+s067,Don't Start Now,Imagine Dragons,pop,english,0.62,0.82,95,0.67,0.16,0.05,0.01,0.22,-6.7,77
+s068,Levitating,Taylor Swift,rock,english,0.64,0.93,129,0.6,0.11,0.1,0.2,0.22,-6.0,60
+s069,Thinking Out Loud,Ed Sheeran,pop,english,0.63,0.88,103,0.71,0.28,0.08,0.11,0.19,-6.9,81
+s070,Perfect,Dua Lipa,funk,english,0.58,0.73,134,0.83,0.14,0.05,0.11,0.09,-4.4,70
+s071,All of Me,Imagine Dragons,rock,english,0.7,0.94,126,0.67,0.04,0.08,0.22,0.3,-5.4,54
+s072,Shallow,Dua Lipa,electronic,english,0.54,0.73,139,0.88,0.35,0.09,0.15,0.24,-7.9,51
+s073,Love Story,Coldplay,electronic,english,0.72,0.63,105,0.87,0.33,0.08,0.15,0.09,-4.6,62
+s074,Radioactive,Harry Styles,electronic,english,0.77,0.83,112,0.74,0.32,0.12,0.05,0.19,-7.3,58
+s075,Wake Me Up,Adele,electronic,english,0.5,0.68,101,0.68,0.13,0.04,0.15,0.24,-7.6,76
+s076,Smells Like Teen Spirit,Taylor Swift,rock,english,0.4,0.8,138,0.53,0.06,0.14,0.28,0.29,-5.0,75
+s077,Closer,Harry Styles,acoustic,english,0.38,0.4,66,0.32,0.91,0.05,0.14,0.22,-12.7,74
+s078,Senorita,Bruno Mars,rock,english,0.66,0.8,118,0.46,0.06,0.1,0.07,0.15,-6.0,90
+s079,Stressed Out,Harry Styles,pop,english,0.77,0.86,115,0.75,0.44,0.1,0.03,0.11,-5.3,61
+s080,Bad Habits,Billie Eilish,acoustic,english,0.31,0.37,90,0.52,0.73,0.04,0.15,0.26,-9.7,95
+s081,Shape of You (Acoustic),Imagine Dragons,funk,english,0.83,0.64,101,0.75,0.36,0.13,0.12,0.16,-6.0,82
+s082,Blinding Lights (Reprise),Imagine Dragons,pop,english,0.61,0.63,97,0.74,0.42,0.06,0.1,0.15,-7.4,58
+s083,Someone Like You (Lofi Mix),Adele,acoustic,english,0.38,0.29,92,0.57,0.76,0.15,0.11,0.1,-12.2,88
+s084,Bad Guy (Live),The Weeknd,funk,english,0.94,0.61,115,0.77,0.34,0.1,0.08,0.11,-7.7,56
+s085,Stay (Club Remix),Harry Styles,acoustic,english,0.46,0.26,81,0.31,0.82,0.05,0.01,0.21,-10.1,78
+s086,As It Was (Chill Out Mix),Bruno Mars,funk,english,0.89,0.76,119,0.79,0.16,0.04,0.08,0.08,-7.8,87
+s087,Cruel Summer (Acoustic),Coldplay,rock,english,0.67,0.72,148,0.46,0.03,0.09,0.35,0.08,-5.4,59
+s088,Flowers (Reprise),Adele,electronic,english,0.84,0.86,112,0.75,0.2,0.07,0.04,0.13,-6.4,58
+s089,Believer (Lofi Mix),Taylor Swift,rock,english,0.31,0.72,137,0.46,0.1,0.04,0.36,0.24,-4.5,85
+s090,Hotel California (Live),Billie Eilish,electronic,english,0.94,0.78,110,0.86,0.09,0.15,0.08,0.13,-7.8,95
+s091,Imagine (Club Remix),Adele,pop,english,0.71,0.87,124,0.69,0.32,0.12,0.14,0.12,-7.1,66
+s092,Bohemian Rhapsody (Chill Out Mix),Harry Styles,acoustic,english,0.47,0.39,72,0.37,0.94,0.07,0.12,0.18,-13.5,74
+s093,Hey Jude (Acoustic),The Weeknd,funk,english,0.78,0.68,129,0.77,0.35,0.09,0.01,0.09,-4.2,53
+s094,Rolling in the Deep (Reprise),Bruno Mars,rock,english,0.74,0.85,120,0.63,0.1,0.15,0.26,0.29,-4.9,59
+s095,Uptown Funk (Lofi Mix),Imagine Dragons,pop,english,0.67,0.76,115,0.69,0.22,0.08,0.07,0.17,-6.2,53
+s096,Counting Stars (Live),The Weeknd,acoustic,english,0.34,0.22,87,0.53,0.93,0.14,0.18,0.13,-9.9,83
+s097,Don't Start Now (Club Remix),Dua Lipa,pop,english,0.93,0.9,116,0.75,0.41,0.06,0.11,0.23,-4.5,75
+s098,Levitating (Chill Out Mix),The Weeknd,acoustic,english,0.43,0.37,85,0.47,0.79,0.05,0.18,0.17,-10.7,62
+s099,Thinking Out Loud (Acoustic),Imagine Dragons,pop,english,0.78,0.67,122,0.82,0.22,0.04,0.09,0.25,-6.4,67
+s100,Perfect (Reprise),Harry Styles,funk,english,0.58,0.74,103,0.83,0.15,0.11,0.06,0.19,-5.8,52
+s101,Tum Hi Ho,Shreya Ghoshal,classical,hindi,0.21,0.28,82,0.35,0.88,0.1,0.8,0.25,-12.5,69
+s102,Kesariya,Arijit Singh,folk,hindi,0.58,0.5,111,0.75,0.45,0.09,0.05,0.11,-8.3,70
+s103,Chaiyya Chaiyya,Lata Mangeshkar,classical,hindi,0.4,0.24,61,0.19,0.84,0.08,0.79,0.19,-11.5,58
+s104,Apna Bana Le,Atif Aslam,acoustic,hindi,0.44,0.15,83,0.58,0.85,0.1,0.12,0.24,-11.9,87
+s105,Channa Mereya,Neha Kakkar,pop,hindi,0.92,0.87,106,0.87,0.33,0.06,0.06,0.21,-4.5,77
+s106,Kal Ho Naa Ho,Kailash Kher,folk,hindi,0.84,0.57,109,0.7,0.43,0.07,0.09,0.15,-6.1,63
+s107,Kabira,Shreya Ghoshal,acoustic,hindi,0.47,0.28,88,0.58,0.75,0.15,0.01,0.16,-10.7,64
+s108,Zaalima,Atif Aslam,acoustic,hindi,0.51,0.35,67,0.52,0.72,0.04,0.03,0.17,-10.1,50
+s109,Dil Diyan Gallan,Sukhwinder Singh,acoustic,hindi,0.5,0.2,93,0.51,0.93,0.09,0.19,0.27,-9.8,87
+s110,Ghar More Pardesiya,Lata Mangeshkar,acoustic,hindi,0.29,0.25,65,0.41,0.84,0.08,0.13,0.17,-13.8,64
+s111,Ae Dil Hai Mushkil,Arijit Singh,rock,hindi,0.67,0.93,155,0.5,0.02,0.09,0.2,0.19,-4.4,53
+s112,Raataan Lambiyan,Shreya Ghoshal,classical,hindi,0.36,0.22,67,0.2,0.93,0.12,0.76,0.15,-11.1,60
+s113,Bekhayali,Kailash Kher,rock,hindi,0.58,0.77,142,0.43,0.09,0.1,0.03,0.13,-4.5,58
+s114,Pasoori,Sonu Nigam,acoustic,hindi,0.25,0.16,70,0.54,0.8,0.04,0.02,0.08,-9.4,64
+s115,Tera Yaar Hoon Main,Shreya Ghoshal,folk,hindi,0.58,0.62,118,0.65,0.5,0.09,0.05,0.18,-5.7,83
+s116,Jhumme Ki Raat,Badshah,classical,hindi,0.42,0.16,71,0.39,0.96,0.05,0.76,0.11,-14.8,82
+s117,Lungi Dance,Sukhwinder Singh,rock,hindi,0.45,0.73,115,0.58,0.05,0.08,0.06,0.25,-3.7,81
+s118,Kar Gayi Chull,Atif Aslam,classical,hindi,0.38,0.24,63,0.15,0.88,0.04,0.39,0.27,-17.6,79
+s119,Balam Pichkari,Badshah,classical,hindi,0.47,0.14,78,0.33,0.84,0.14,0.44,0.22,-17.5,50
+s120,Senorita,Badshah,classical,hindi,0.46,0.32,82,0.23,0.81,0.13,0.74,0.15,-15.9,61
+s121,Agar Tum Saath Ho,Jubin Nautiyal,classical,hindi,0.28,0.06,70,0.39,0.96,0.07,0.59,0.25,-14.5,84
+s122,Pee Loon,Arijit Singh,acoustic,hindi,0.32,0.3,74,0.33,0.73,0.04,0.14,0.14,-12.6,71
+s123,Kun Faya Kun,Atif Aslam,pop,hindi,0.81,0.62,120,0.76,0.18,0.09,0.03,0.17,-4.1,74
+s124,Zindagi Do Pal Ki,Badshah,classical,hindi,0.24,0.11,70,0.22,0.95,0.1,0.66,0.11,-16.8,68
+s125,Tum Se Hi,Atif Aslam,rock,hindi,0.34,0.74,125,0.45,0.03,0.15,0.12,0.14,-3.5,89
+s126,Hawayein,Badshah,pop,hindi,0.71,0.65,106,0.76,0.29,0.09,0.04,0.15,-5.7,53
+s127,Chura Ke Dil Mera,Neha Kakkar,classical,hindi,0.57,0.14,75,0.31,0.87,0.14,0.86,0.24,-15.5,79
+s128,Dil To Pagal Hai,Badshah,folk,hindi,0.73,0.62,91,0.78,0.43,0.14,0.02,0.2,-8.4,95
+s129,Ghungroo,Shreya Ghoshal,folk,hindi,0.67,0.66,99,0.6,0.61,0.08,0.06,0.19,-6.4,81
+s130,Nashe Si Chadh Gayi,Jubin Nautiyal,rock,hindi,0.45,0.73,125,0.57,0.06,0.08,0.08,0.2,-5.7,73
+s131,Tum Hi Ho (Acoustic),Sukhwinder Singh,pop,hindi,0.57,0.84,111,0.67,0.24,0.04,0.14,0.08,-6.8,76
+s132,Kesariya (Reprise),Lata Mangeshkar,folk,hindi,0.57,0.72,100,0.73,0.47,0.13,0.04,0.16,-8.3,71
+s133,Chaiyya Chaiyya (Lofi Mix),Neha Kakkar,acoustic,hindi,0.3,0.33,68,0.59,0.92,0.04,0.13,0.24,-9.6,53
+s134,Apna Bana Le (Live),Badshah,pop,hindi,0.74,0.87,106,0.7,0.45,0.06,0.03,0.2,-4.0,75
+s135,Channa Mereya (Club Remix),Kailash Kher,rock,hindi,0.48,0.78,128,0.5,0.05,0.08,0.08,0.16,-4.0,64
+s136,Kal Ho Naa Ho (Chill Out Mix),Neha Kakkar,rock,hindi,0.41,0.91,155,0.53,0.07,0.08,0.3,0.13,-4.4,55
+s137,Kabira (Acoustic),Kailash Kher,acoustic,hindi,0.21,0.39,67,0.37,0.76,0.06,0.11,0.29,-13.0,76
+s138,Zaalima (Reprise),Neha Kakkar,rock,hindi,0.45,0.71,138,0.5,0.15,0.12,0.36,0.14,-4.8,93
+s139,Dil Diyan Gallan (Lofi Mix),Neha Kakkar,rock,hindi,0.57,0.88,137,0.65,0.04,0.07,0.27,0.26,-6.0,53
+s140,Ghar More Pardesiya (Live),Shreya Ghoshal,acoustic,hindi,0.19,0.35,90,0.42,0.85,0.05,0.09,0.19,-13.9,68
+s141,Ae Dil Hai Mushkil (Club Remix),Sonu Nigam,rock,hindi,0.68,0.75,130,0.54,0.14,0.14,0.29,0.14,-4.8,93
+s142,Raataan Lambiyan (Chill Out Mix),Kailash Kher,classical,hindi,0.27,0.11,53,0.19,0.94,0.09,0.88,0.1,-15.2,94
+s143,Bekhayali (Acoustic),Shreya Ghoshal,rock,hindi,0.71,0.73,110,0.6,0.05,0.05,0.31,0.29,-5.0,58
+s144,Pasoori (Reprise),Kailash Kher,folk,hindi,0.56,0.6,97,0.78,0.56,0.15,0.02,0.21,-5.8,65
+s145,Tera Yaar Hoon Main (Lofi Mix),Arijit Singh,acoustic,hindi,0.4,0.43,68,0.52,0.8,0.12,0.14,0.15,-8.3,71
+s146,Jhumme Ki Raat (Live),Badshah,acoustic,hindi,0.46,0.18,76,0.48,0.73,0.1,0.11,0.14,-8.9,59
+s147,Lungi Dance (Club Remix),Jubin Nautiyal,rock,hindi,0.34,0.86,139,0.67,0.07,0.07,0.24,0.18,-5.4,64
+s148,Kar Gayi Chull (Chill Out Mix),Lata Mangeshkar,folk,hindi,0.7,0.51,107,0.62,0.5,0.04,0.06,0.27,-6.4,91
+s149,Balam Pichkari (Acoustic),Kailash Kher,acoustic,hindi,0.17,0.24,90,0.44,0.85,0.07,0.15,0.26,-9.2,81
+s150,Senorita (Reprise),Kailash Kher,folk,hindi,0.41,0.68,103,0.58,0.64,0.15,0.04,0.11,-8.1,64
+s151,Butta Bomma,Armaan Malik,folk,telugu,0.7,0.74,103,0.64,0.6,0.13,0.08,0.17,-8.8,69
+s152,Naatu Naatu,Mangli,pop,telugu,0.51,0.84,118,0.87,0.36,0.15,0.12,0.26,-8.0,62
+s153,Samajavaragamana,Karthik,acoustic,telugu,0.19,0.4,80,0.45,0.86,0.11,0.01,0.12,-11.5,92
+s154,Kalaavathi,Sid Sriram,rock,telugu,0.58,0.8,115,0.51,0.12,0.11,0.0,0.23,-5.6,73
+s155,Ramuloo Ramulaa,Armaan Malik,acoustic,telugu,0.24,0.4,92,0.58,0.87,0.05,0.08,0.19,-10.0,54
+s156,Oo Antava Oo Oo Antava,Anurag Kulkarni,acoustic,telugu,0.47,0.13,90,0.31,0.89,0.09,0.16,0.3,-10.6,75
+s157,Srivalli,Chithra,acoustic,telugu,0.47,0.24,70,0.4,0.9,0.12,0.06,0.13,-11.2,52
+s158,Inkem Inkem Inkem Kaavaale,Karthik,acoustic,telugu,0.44,0.13,65,0.46,0.73,0.07,0.19,0.29,-13.1,79
+s159,Adiga Adiga,Chithra,classical,telugu,0.42,0.11,58,0.34,0.8,0.03,0.82,0.11,-15.0,55
+s160,Nee Kannu Neeli Samudram,Armaan Malik,classical,telugu,0.48,0.19,52,0.17,0.81,0.05,0.82,0.14,-15.9,60
+s161,Telusa Telusa,Karthik,classical,telugu,0.42,0.28,63,0.16,0.82,0.1,0.31,0.22,-15.9,75
+s162,Undiporaadhey,Chithra,acoustic,telugu,0.25,0.44,69,0.48,0.88,0.07,0.18,0.22,-13.1,82
+s163,Chitti,Sunitha,classical,telugu,0.24,0.29,63,0.3,0.87,0.09,0.56,0.11,-17.9,74
+s164,Saranga Dariya,Sid Sriram,folk,telugu,0.65,0.46,85,0.58,0.5,0.13,0.04,0.16,-9.0,87
+s165,Oye Oye,Armaan Malik,pop,telugu,0.85,0.79,131,0.71,0.34,0.13,0.03,0.28,-5.5,92
+s166,Priya Mithunam,Anurag Kulkarni,folk,telugu,0.74,0.59,118,0.72,0.56,0.07,0.05,0.16,-6.3,90
+s167,Evare,Karthik,acoustic,telugu,0.39,0.16,73,0.45,0.84,0.03,0.17,0.11,-12.7,93
+s168,Nuvvostanante Neddontana,Shreya Ghoshal,classical,telugu,0.51,0.34,77,0.41,0.97,0.09,0.49,0.29,-17.8,92
+s169,Mellaga Karagani,Shreya Ghoshal,pop,telugu,0.84,0.76,135,0.72,0.15,0.06,0.1,0.18,-6.6,65
+s170,Oosupodu,Shreya Ghoshal,acoustic,telugu,0.32,0.3,74,0.37,0.94,0.03,0.01,0.16,-11.3,52
+s171,Dheevara,Karthik,pop,telugu,0.79,0.78,95,0.72,0.43,0.07,0.05,0.19,-4.7,52
+s172,Saahore Baahubali,S. P. B.,classical,telugu,0.47,0.15,58,0.45,0.84,0.14,0.81,0.14,-11.2,67
+s173,Pucho Prema Hele,Armaan Malik,acoustic,telugu,0.4,0.29,77,0.4,0.9,0.05,0.11,0.2,-11.3,84
+s174,My Love,Sid Sriram,rock,telugu,0.57,0.72,142,0.45,0.03,0.14,0.39,0.21,-3.9,82
+s175,Seethamma Vakitlo,Chithra,rock,telugu,0.53,0.82,125,0.53,0.01,0.09,0.08,0.17,-3.6,94
+s176,Ciciliya Ciciliya,Chithra,pop,telugu,0.66,0.8,119,0.79,0.27,0.15,0.12,0.29,-5.3,66
+s177,Apple Beauty,Anurag Kulkarni,rock,telugu,0.4,0.88,149,0.43,0.13,0.14,0.1,0.27,-5.3,50
+s178,Laalijo,Anurag Kulkarni,folk,telugu,0.74,0.59,121,0.72,0.55,0.04,0.07,0.18,-5.8,84
+s179,Arere Yemaindi,S. P. B.,classical,telugu,0.22,0.12,80,0.39,0.93,0.13,0.36,0.29,-13.3,66
+s180,Vintunnavaa,Shreya Ghoshal,pop,telugu,0.94,0.72,134,0.81,0.28,0.12,0.08,0.19,-5.9,82
+s181,Butta Bomma (Acoustic),Chithra,folk,telugu,0.48,0.68,93,0.64,0.67,0.12,0.09,0.25,-7.7,84
+s182,Naatu Naatu (Reprise),Sunitha,rock,telugu,0.71,0.77,151,0.43,0.05,0.04,0.11,0.16,-4.5,63
+s183,Samajavaragamana (Lofi Mix),Sid Sriram,rock,telugu,0.7,0.71,133,0.58,0.13,0.14,0.03,0.29,-4.0,86
+s184,Kalaavathi (Live),S. P. B.,pop,telugu,0.9,0.84,126,0.72,0.41,0.14,0.01,0.23,-5.6,63
+s185,Ramuloo Ramulaa (Club Remix),Sunitha,folk,telugu,0.52,0.59,119,0.64,0.57,0.04,0.1,0.14,-8.3,86
+s186,Oo Antava Oo Oo Antava (Chill Out Mix),Sunitha,acoustic,telugu,0.51,0.34,93,0.34,0.72,0.04,0.2,0.19,-11.4,94
+s187,Srivalli (Acoustic),Sid Sriram,classical,telugu,0.63,0.06,70,0.25,0.91,0.06,0.81,0.12,-13.3,81
+s188,Inkem Inkem Inkem Kaavaale (Reprise),Sunitha,folk,telugu,0.75,0.71,85,0.56,0.41,0.07,0.09,0.22,-7.6,76
+s189,Adiga Adiga (Lofi Mix),Rahul Sipligunj,acoustic,telugu,0.55,0.24,92,0.5,0.72,0.08,0.08,0.23,-13.9,59
+s190,Nee Kannu Neeli Samudram (Live),Mangli,classical,telugu,0.44,0.32,52,0.39,0.85,0.06,0.46,0.12,-12.9,69
+s191,Telusa Telusa (Club Remix),Sunitha,rock,telugu,0.52,0.78,119,0.59,0.09,0.08,0.33,0.25,-4.1,93
+s192,Undiporaadhey (Chill Out Mix),Chithra,pop,telugu,0.51,0.88,117,0.73,0.24,0.09,0.08,0.23,-6.2,95
+s193,Chitti (Acoustic),Sunitha,pop,telugu,0.68,0.64,140,0.75,0.11,0.12,0.09,0.2,-7.0,83
+s194,Saranga Dariya (Reprise),Karthik,rock,telugu,0.56,0.9,134,0.48,0.08,0.14,0.23,0.11,-5.5,79
+s195,Oye Oye (Lofi Mix),Sid Sriram,classical,telugu,0.5,0.24,76,0.26,0.86,0.09,0.65,0.22,-16.3,56
+s196,Priya Mithunam (Live),Sunitha,acoustic,telugu,0.28,0.4,87,0.53,0.94,0.07,0.13,0.25,-8.5,92
+s197,Evare (Club Remix),Shreya Ghoshal,classical,telugu,0.52,0.29,73,0.15,0.86,0.11,0.79,0.16,-16.5,66
+s198,Nuvvostanante Neddontana (Chill Out Mix),Sid Sriram,pop,telugu,0.81,0.76,109,0.71,0.26,0.05,0.14,0.29,-7.0,60
+s199,Mellaga Karagani (Acoustic),Rahul Sipligunj,acoustic,telugu,0.54,0.26,65,0.45,0.91,0.03,0.14,0.23,-8.0,68
+s200,Oosupodu (Reprise),Rahul Sipligunj,pop,telugu,0.77,0.76,105,0.88,0.36,0.07,0.01,0.18,-6.6,94
+s201,Why This Kolaveri Di,Dhee,classical,tamil,0.54,0.25,76,0.31,0.9,0.14,0.87,0.14,-15.8,89
+s202,Arabic Kuthu,Anirudh Ravichander,acoustic,tamil,0.49,0.29,82,0.37,0.75,0.1,0.12,0.21,-9.8,81
+s203,Rowdy Baby,Sid Sriram,classical,tamil,0.49,0.09,57,0.15,0.88,0.04,0.47,0.23,-12.7,91
+s204,Tum Tum,Vijay,rock,tamil,0.33,0.74,111,0.61,0.14,0.06,0.06,0.15,-6.4,59
+s205,Kabavali,Harris Jayaraj,acoustic,tamil,0.38,0.35,67,0.4,0.9,0.14,0.02,0.11,-10.1,73
+s206,Marakkuma Nenjam,Sid Sriram,classical,tamil,0.6,0.08,56,0.3,0.85,0.07,0.44,0.23,-17.8,87
+s207,Ranjithame,Vijay,pop,tamil,0.94,0.61,97,0.7,0.44,0.07,0.01,0.23,-6.1,83
+s208,Kaavaala,Sid Sriram,rock,tamil,0.6,0.8,149,0.68,0.04,0.13,0.33,0.12,-3.5,53
+s209,Enjoy Enjaami,Dhee,classical,tamil,0.61,0.16,83,0.3,0.85,0.07,0.68,0.24,-13.9,88
+s210,Singappenney,Sid Sriram,acoustic,tamil,0.19,0.38,69,0.32,0.72,0.09,0.01,0.17,-11.4,91
+s211,Verithanam,Yuvan Shankar Raja,classical,tamil,0.64,0.14,78,0.26,0.9,0.08,0.75,0.19,-11.3,82
+s212,Chilla Chilla,Dhanush,acoustic,tamil,0.2,0.4,67,0.52,0.75,0.13,0.17,0.22,-10.9,54
+s213,Hukum,Shreya Ghoshal,classical,tamil,0.27,0.11,78,0.26,0.81,0.12,0.7,0.1,-15.6,53
+s214,Kanja Poovu Kannala,Shreya Ghoshal,acoustic,tamil,0.44,0.41,87,0.37,0.73,0.11,0.17,0.11,-8.2,63
+s215,Kadhaippoma,A. R. Rahman,pop,tamil,0.88,0.86,98,0.66,0.21,0.09,0.06,0.14,-6.4,79
+s216,Naan Pizhai,Dhee,folk,tamil,0.65,0.69,125,0.65,0.57,0.13,0.09,0.12,-7.6,74
+s217,Bodhai Kaname,Dhee,acoustic,tamil,0.31,0.24,91,0.57,0.7,0.05,0.09,0.1,-8.5,55
+s218,Vaseegara,Harris Jayaraj,folk,tamil,0.66,0.5,121,0.56,0.43,0.06,0.05,0.19,-6.7,89
+s219,Munbe Vaa,Harris Jayaraj,folk,tamil,0.6,0.62,99,0.77,0.68,0.04,0.0,0.1,-8.0,68
+s220,Nenjukkul Peidhidum,Sid Sriram,pop,tamil,0.82,0.82,103,0.7,0.28,0.12,0.09,0.2,-5.1,80
+s221,Kannazhaga,Vijay,rock,tamil,0.31,0.76,131,0.5,0.01,0.05,0.26,0.17,-6.2,65
+s222,Unakku Thaan,Vijay,rock,tamil,0.74,0.91,149,0.46,0.04,0.14,0.01,0.29,-5.0,91
+s223,Ennodu Nee Irundhal,A. R. Rahman,classical,tamil,0.37,0.29,74,0.44,0.85,0.03,0.81,0.17,-17.2,67
+s224,Aalaporaan Thamizhan,Yuvan Shankar Raja,rock,tamil,0.59,0.78,122,0.63,0.02,0.05,0.26,0.26,-6.3,55
+s225,High on Love,Sid Sriram,classical,tamil,0.23,0.11,50,0.2,0.8,0.1,0.42,0.29,-17.9,59
+s226,New York Nagaram,Anirudh Ravichander,pop,tamil,0.6,0.75,123,0.69,0.43,0.04,0.1,0.25,-7.0,53
+s227,Adiye,Harris Jayaraj,acoustic,tamil,0.35,0.22,78,0.33,0.86,0.09,0.0,0.13,-12.3,95
+s228,Karka Karka,Harris Jayaraj,rock,tamil,0.37,0.77,145,0.51,0.1,0.04,0.05,0.3,-5.9,57
+s229,Oru Maalai,Harris Jayaraj,acoustic,tamil,0.46,0.1,91,0.4,0.87,0.05,0.15,0.21,-12.5,50
+s230,Pookkalae Sattru Oyivedungal,Dhanush,classical,tamil,0.61,0.13,63,0.2,0.92,0.05,0.71,0.25,-14.1,86
+s231,Why This Kolaveri Di (Acoustic),Shreya Ghoshal,acoustic,tamil,0.16,0.35,89,0.43,0.75,0.12,0.14,0.17,-10.7,71
+s232,Arabic Kuthu (Reprise),Dhee,classical,tamil,0.45,0.32,78,0.31,0.93,0.1,0.39,0.23,-14.6,65
+s233,Rowdy Baby (Lofi Mix),Dhanush,acoustic,tamil,0.38,0.14,85,0.49,0.88,0.15,0.11,0.24,-13.7,56
+s234,Tum Tum (Live),Harris Jayaraj,acoustic,tamil,0.3,0.23,81,0.48,0.88,0.05,0.03,0.14,-14.0,52
+s235,Kabavali (Club Remix),S. P. B.,pop,tamil,0.95,0.65,106,0.67,0.35,0.1,0.06,0.2,-5.5,74
+s236,Marakkuma Nenjam (Chill Out Mix),Vijay,acoustic,tamil,0.5,0.11,82,0.54,0.89,0.11,0.19,0.24,-11.0,51
+s237,Ranjithame (Acoustic),A. R. Rahman,rock,tamil,0.48,0.92,150,0.64,0.06,0.03,0.31,0.11,-3.9,63
+s238,Kaavaala (Reprise),S. P. B.,folk,tamil,0.85,0.46,111,0.68,0.65,0.13,0.07,0.22,-8.2,89
+s239,Enjoy Enjaami (Lofi Mix),A. R. Rahman,pop,tamil,0.93,0.82,119,0.82,0.24,0.03,0.04,0.29,-7.4,51
+s240,Singappenney (Live),Dhee,folk,tamil,0.64,0.68,93,0.57,0.56,0.04,0.07,0.15,-8.4,69
+s241,Verithanam (Club Remix),Yuvan Shankar Raja,classical,tamil,0.26,0.09,50,0.26,0.87,0.15,0.55,0.2,-12.7,84
+s242,Chilla Chilla (Chill Out Mix),Harris Jayaraj,acoustic,tamil,0.32,0.2,65,0.46,0.94,0.14,0.06,0.21,-13.9,73
+s243,Hukum (Acoustic),S. P. B.,pop,tamil,0.74,0.75,107,0.66,0.3,0.12,0.06,0.09,-6.8,91
+s244,Kanja Poovu Kannala (Reprise),S. P. B.,pop,tamil,0.59,0.67,107,0.69,0.17,0.1,0.08,0.24,-6.2,84
+s245,Kadhaippoma (Lofi Mix),Harris Jayaraj,rock,tamil,0.5,0.88,130,0.53,0.07,0.07,0.32,0.18,-6.4,56
+s246,Naan Pizhai (Live),Dhanush,classical,tamil,0.15,0.35,59,0.34,0.82,0.07,0.39,0.14,-16.1,73
+s247,Bodhai Kaname (Club Remix),S. P. B.,folk,tamil,0.56,0.54,89,0.71,0.46,0.13,0.1,0.2,-7.5,92
+s248,Vaseegara (Chill Out Mix),Dhee,rock,tamil,0.57,0.76,136,0.5,0.15,0.04,0.05,0.2,-5.3,83
+s249,Munbe Vaa (Acoustic),Shreya Ghoshal,folk,tamil,0.47,0.6,102,0.66,0.52,0.14,0.01,0.25,-6.7,76
+s250,Nenjukkul Peidhidum (Reprise),Dhanush,pop,tamil,0.57,0.66,136,0.74,0.36,0.09,0.04,0.25,-7.6,70

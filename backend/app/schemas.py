@@ -2,7 +2,7 @@ from typing import Dict, List, Optional
 from pydantic import BaseModel, Field
 
 
-EMOTIONS = ["happy", "sad", "angry", "fear", "surprise", "neutral", "disgust", "love"]
+EMOTIONS = ["happy", "sad", "angry", "fear", "surprise", "disgust", "love"]
 
 class EmotionRequest(BaseModel):
     image_base64: Optional[str] = Field(default=None, description="Webcam frame as base64 data URL or raw base64.")

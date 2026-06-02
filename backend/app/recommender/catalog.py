@@ -53,6 +53,8 @@ def load_catalog(path: str) -> List[Song]:
 
 def upsert_catalog(songs: List[Song]) -> None:
     with db_session() as conn:
+        conn.execute(text("DELETE FROM song_features"))
+        conn.execute(text("DELETE FROM songs"))
         for song in songs:
             conn.execute(
                 text(

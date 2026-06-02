@@ -70,7 +70,7 @@ class VisualEmotionDetector(EmotionDetector):
         import random
         image_bytes = _image_payload(image_base64)
         if not image_bytes:
-            base = {"happy": 0.04, "sad": 0.06, "angry": 0.03, "fear": 0.03, "surprise": 0.03, "neutral": 0.78, "disgust": 0.02, "love": 0.01}
+            base = {"happy": 0.18, "sad": 0.18, "angry": 0.12, "fear": 0.12, "surprise": 0.14, "disgust": 0.10, "love": 0.16}
             for k in base:
                 base[k] = max(0.01, base[k] + random.uniform(-0.02, 0.02))
             return sharpen_probabilities(base, temperature=0.95)
@@ -96,7 +96,6 @@ class VisualEmotionDetector(EmotionDetector):
                 "angry": 0.08 + 1.10 * warmth + 0.95 * contrast + 0.25 * (1.0 - mean_g),
                 "fear": 0.07 + 1.05 * contrast + 0.45 * coolness + 0.35 * (1.0 - face_signal),
                 "surprise": 0.07 + 1.20 * contrast + 0.65 * brightness + 0.35 * saturation,
-                "neutral": 0.32 + 0.95 * (1.0 - abs(brightness - 0.52)) + 0.40 * (1.0 - saturation),
                 "disgust": 0.06 + 0.95 * (mean_g - min(mean_r, mean_b)) + 0.55 * (1.0 - brightness),
                 "love": 0.08 + 1.15 * warmth + 0.85 * (1.0 - contrast) + 0.50 * brightness,
             }

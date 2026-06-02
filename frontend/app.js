@@ -17,7 +17,7 @@ const languageSelect = document.querySelector("#languageSelect");
 let lastProbabilities = null;
 let lastRecommendationId = null;
 
-const emotions = ["happy", "sad", "angry", "fear", "surprise", "neutral", "disgust", "love"];
+const emotions = ["happy", "sad", "angry", "fear", "surprise", "disgust", "love"];
 
 function setStatus(message) {
   statusEl.textContent = message;
@@ -140,7 +140,7 @@ async function detectAndRecommend() {
       user_id: userId,
       session_id: sessionId,
       probabilities: lastProbabilities,
-      limit: 10,
+      limit: 15,
       language: languageSelect.value,
     });
     lastRecommendationId = recommendations.recommendation_id;
@@ -172,7 +172,7 @@ async function recommendForMood(mood) {
     user_id: userId,
     session_id: sessionId,
     probabilities,
-    limit: 10,
+    limit: 15,
     language: languageSelect.value,
   });
   lastRecommendationId = recommendations.recommendation_id;
