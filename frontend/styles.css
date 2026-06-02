@@ -1,0 +1,255 @@
+:root {
+  color-scheme: dark;
+  --bg: #101114;
+  --panel: #191b20;
+  --panel-2: #22252b;
+  --text: #f3f4f6;
+  --muted: #a6adbb;
+  --line: #343842;
+  --accent: #2dd4bf;
+  --accent-2: #f5c542;
+  --danger: #fb7185;
+  --good: #86efac;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+button {
+  border: 0;
+  border-radius: 8px;
+  color: #071312;
+  cursor: pointer;
+  font-weight: 750;
+  min-height: 42px;
+  padding: 0 16px;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+.app-shell {
+  width: min(1240px, calc(100vw - 32px));
+  margin: 0 auto;
+  padding: 24px 0;
+}
+
+.workspace {
+  display: grid;
+  grid-template-columns: minmax(320px, 0.92fr) minmax(420px, 1.08fr);
+  gap: 18px;
+  min-height: calc(100vh - 48px);
+}
+
+.camera-pane,
+.recommendation-pane {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.topbar,
+.pane-header {
+  align-items: center;
+  border-bottom: 1px solid var(--line);
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 18px;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+h1 {
+  font-size: 26px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+p,
+.song-meta,
+.reason,
+.eyebrow,
+.provider-status {
+  color: var(--muted);
+}
+
+.provider-status {
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+.eyebrow {
+  display: block;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.primary {
+  background: var(--accent);
+}
+
+.secondary {
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+  color: var(--text);
+}
+
+#webcam {
+  aspect-ratio: 4 / 3;
+  background: #07080a;
+  display: block;
+  object-fit: cover;
+  width: 100%;
+}
+
+.emotion-grid {
+  display: grid;
+  gap: 10px;
+  padding: 18px;
+}
+
+.mood-controls {
+  border-top: 1px solid var(--line);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 18px;
+}
+
+.mood-controls button {
+  background: #111318;
+  border: 1px solid var(--line);
+  color: var(--text);
+  min-height: 34px;
+  padding: 0 12px;
+}
+
+.emotion-row {
+  align-items: center;
+  display: grid;
+  grid-template-columns: 88px 1fr 52px;
+  gap: 10px;
+  min-height: 28px;
+}
+
+.bar {
+  background: #111318;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  height: 12px;
+  overflow: hidden;
+}
+
+.bar span {
+  background: var(--accent-2);
+  display: block;
+  height: 100%;
+  width: 0%;
+}
+
+.song-list {
+  display: grid;
+  gap: 10px;
+  padding: 18px;
+}
+
+.song-card {
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  display: grid;
+  gap: 12px;
+  padding: 14px;
+}
+
+.song-main {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.song-title {
+  font-size: 17px;
+  font-weight: 800;
+}
+
+.score {
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+  font-weight: 800;
+}
+
+.reason-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.reason {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-size: 12px;
+  padding: 4px 8px;
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+}
+
+.actions button {
+  background: #14171b;
+  border: 1px solid var(--line);
+  color: var(--text);
+  min-height: 34px;
+}
+
+.actions button.like {
+  color: var(--good);
+}
+
+.actions button.dislike {
+  color: var(--danger);
+}
+
+.empty {
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+  color: var(--muted);
+  padding: 24px;
+  text-align: center;
+}
+
+@media (max-width: 900px) {
+  .workspace {
+    grid-template-columns: 1fr;
+  }
+
+  .topbar,
+  .pane-header,
+  .song-main {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}

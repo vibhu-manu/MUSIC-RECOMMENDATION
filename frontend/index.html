@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mood Music Recommender</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="workspace">
+        <div class="camera-pane">
+          <div class="topbar">
+            <div>
+              <h1>Mood Music</h1>
+              <p id="status">Initializing recommendation system...</p>
+              <p id="providerStatus" class="provider-status">Checking model...</p>
+            </div>
+            <button id="captureBtn" class="primary">Detect mood</button>
+          </div>
+          <video id="webcam" autoplay playsinline muted></video>
+          <canvas id="snapshot" width="360" height="240" hidden></canvas>
+          <div class="emotion-grid" id="emotionGrid"></div>
+          <div class="mood-controls" id="moodControls"></div>
+        </div>
+
+        <div class="recommendation-pane">
+          <div class="pane-header">
+            <div>
+              <span class="eyebrow">Top 10</span>
+              <h2 id="emotionTitle">Recommendations</h2>
+            </div>
+            <div style="display: flex; gap: 10px; align-items: center;">
+              <select id="languageSelect" class="secondary" style="padding: 8px; border-radius: 4px; background: rgba(255, 255, 255, 0.1); color: white; border: 1px solid rgba(255, 255, 255, 0.2);">
+                <option value="english">English</option>
+                <option value="kannada">Kannada</option>
+                <option value="hindi">Hindi</option>
+                <option value="telugu">Telugu</option>
+                <option value="tamil">Tamil</option>
+              </select>
+              <button id="refreshBtn" class="secondary">Refresh</button>
+            </div>
+          </div>
+          <div id="songList" class="song-list"></div>
+        </div>
+      </section>
+    </main>
+    <script src="/app.js"></script>
+  </body>
+</html>

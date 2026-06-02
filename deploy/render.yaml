@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: mood-music-recommender
+    runtime: docker
+    plan: starter
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: MOOD_MUSIC_DATABASE_URL
+        fromDatabase:
+          name: mood-music-postgres
+          property: connectionString
+      - key: MOOD_MUSIC_EMOTION_PROVIDER
+        value: mock
+
+databases:
+  - name: mood-music-postgres
+    plan: starter
+

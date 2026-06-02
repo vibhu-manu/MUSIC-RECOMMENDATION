@@ -1,0 +1,6 @@
+-r requirements.txt
+faiss-cpu==1.8.0.post1
+deepface==0.0.92
+tensorflow==2.21.0
+tf_keras==2.21.0
+opencv-python-headless==4.10.0.84
